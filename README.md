@@ -1,9 +1,9 @@
-# About Me
+## 💫 About Me
 
 I am a Computer Science UnderGraduate Student with an Aspiring view on New Techs, Gaming, Coding and Designing.
-I have Skills on Developement of C - C++ - Java - JavaScript - HTML - CSS - Bootstrap - Jquerry
+I have Skills on Developement of C - C++ - Java - JavaScript - HTML - CSS - Bootstrap - Jquerry..
 Version Control Systems - Git & GitHub
-and other //
+and other tools //
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/darkxzz999) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_darkxzz__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vinaal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@darkxzz999) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__Vinaal__) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Techyxzz) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@Dark-Vinaal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinaalm898@gmail.com) 
