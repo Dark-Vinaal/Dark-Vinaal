@@ -3,7 +3,23 @@
 I am a Computer Science UnderGraduate Student with an Aspiring view on New Techs, Gaming, Coding and Designing.
 I have Skills on Developement of C - C++ - Java - JavaScript - HTML - CSS - Bootstrap - Jquerry..
 Version Control Systems - Git & GitHub
-and other tools //
+and other tools 
+
+---
+
+"One line of code a day builds the future, line by line."
+
+"One line of code a day keeps the bugs away."
+
+"One line of code a day is still progress."
+
+"One line of code a day turns ideas into reality."
+
+"One line of code a day keeps procrastination away."
+
+"One line of code a day is the seed of mastery."
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vinaal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@darkxzz999) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__Vinaal__) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Techyxzz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_darkxzz__) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/darkxzz999) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinaalm898@gmail.com) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@Dark-Vinaal) 
