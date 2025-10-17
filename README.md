@@ -31,6 +31,8 @@ and other tools
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+
 "One line of code a day builds the future, line by line."
 
 "One line of code a day keeps the bugs away."
