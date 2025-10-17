@@ -1,12 +1,10 @@
-## 💫 About Me
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
+## 💫 About Me
 
 I am an Aspiring Tech Lover with the passion and love for coding, designing, gaming..
 I have Skills on Developement of C - C++ - Java - Python - Dart - JavaScript - HTML - CSS - Tailwind - Bootstrap - Jquerry..
 Version Control Systems - Git & GitHub and other tools.
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" /> 
 
 ---
 
@@ -28,7 +26,7 @@ Version Control Systems - Git & GitHub and other tools.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dark-Vinaal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Dark-Vinaal&limit=5&theme=dark&combine_all_yearly_contributions=true)   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" /> 
 
 ---
 
@@ -36,7 +34,8 @@ Version Control Systems - Git & GitHub and other tools.
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400"> 
+
 
 > "One line of code a day builds the future, line by line."
 
@@ -49,5 +48,8 @@ Version Control Systems - Git & GitHub and other tools.
 > "One line of code a day keeps procrastination away."
 
 > "One line of code a day is the seed of mastery."
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">        <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
 
 ---
