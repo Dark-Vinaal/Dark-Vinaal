@@ -1,3 +1,4 @@
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -48,6 +49,18 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+## 📝 Projects
+
+| Projects              | Deployed Link                       | Repository                          | Tech Stack & Tools |
+|-----------------------|------------------------------------|-------------------------------------|------------------|
+| Techy Zone            | [Link](https://techyzone.netlify.app/)     | [Repo]() |                  |
+| Calculator            | [Link](https://dark-vinaal.github.io/Calculator-JS/)     | [Repo](https://github.com/Dark-Vinaal/Calculator-JS.git) |                  |
+| Average Calculator    | [Link](https://dark-vinaal.github.io/Average-Calculator/)     | [Repo](https://github.com/Dark-Vinaal/Average-Calculator.git) |                  |
+| BMI Calculator        | [Link](https://dark-vinaal.github.io/BMI-Calculator/)     | [Repo](https://github.com/Dark-Vinaal/BMI-Calculator.git) |                  |
+| Facebook Login Page   | [Link](https://dark-vinaal.github.io/facebook-login/)     | [Repo](https://github.com/Dark-Vinaal/facebook-login.git) |                  |
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dark-Vinaal&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dark-Vinaal&theme=ambient_gradient&hide_border=false)<br/>
@@ -56,10 +69,10 @@
 ## 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=Dark-Vinaal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dark-Vinaal&limit=5&theme=dark&combine_all_yearly_contributions=true)   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" /> 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -90,3 +103,5 @@
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+---
