@@ -53,11 +53,11 @@
 
 | Projects              | Deployed Link                       | Repository                          | Tech Stack & Tools |
 |-----------------------|------------------------------------|-------------------------------------|------------------|
-| Techy Zone            | [Link](https://techyzone.netlify.app/)     | [Repo]() |                  |
-| Calculator            | [Link](https://dark-vinaal.github.io/Calculator-JS/)     | [Repo](https://github.com/Dark-Vinaal/Calculator-JS.git) |                  |
-| Average Calculator    | [Link](https://dark-vinaal.github.io/Average-Calculator/)     | [Repo](https://github.com/Dark-Vinaal/Average-Calculator.git) |                  |
-| BMI Calculator        | [Link](https://dark-vinaal.github.io/BMI-Calculator/)     | [Repo](https://github.com/Dark-Vinaal/BMI-Calculator.git) |                  |
-| Facebook Login Page   | [Link](https://dark-vinaal.github.io/facebook-login/)     | [Repo](https://github.com/Dark-Vinaal/facebook-login.git) |                  |
+| Techy Zone            | [Link](https://techyzone.netlify.app/)     | [Pvt] | `HTML` `CSS` `GIT` `GitHub` `Netlify` `VS Code` |
+| Calculator            | [Link](https://dark-vinaal.github.io/Calculator-JS/)     | [Repo](https://github.com/Dark-Vinaal/Calculator-JS.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
+| Average Calculator    | [Link](https://dark-vinaal.github.io/Average-Calculator/)     | [Repo](https://github.com/Dark-Vinaal/Average-Calculator.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
+| BMI Calculator        | [Link](https://dark-vinaal.github.io/BMI-Calculator/)     | [Repo](https://github.com/Dark-Vinaal/BMI-Calculator.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
+| Facebook Login Page   | [Link](https://dark-vinaal.github.io/facebook-login/)     | [Repo](https://github.com/Dark-Vinaal/facebook-login.git) | `HTML` `CSS` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
