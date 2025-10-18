@@ -3,11 +3,12 @@
 
 ## 💫 About Me
 
-### An Aspiring Tech Lover with the Passion and Love towards Advancing Future of Tech, Coding, Designing, Gaming, Artificial Intelligence.. 
+### An Aspiring Tech Lover with a Passion for Coding, Designing, Gaming, and Artificial Intelligence
 
-- I have Skills on Developement of C - C++ - Java - Python - Dart - JavaScript - HTML - CSS - Tailwind - Bootstrap - Jquerry, 
-Version Control Systems - Git & GitHub and other tools.
-- I wanna be an FullStack Developer or an Software Developer.
+- Enthusiastic about learning and building innovative solutions.  
+- Aiming to grow as a **Full Stack Developer** or **Software Developer**.  
+- Skilled in web development, problem-solving, and exploring emerging technologies.
+- Aiming to build a Responsive web design.
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
