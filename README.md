@@ -114,8 +114,8 @@
   <br><br>
 </div>
 
-<div align="center">
-  
+<div align="left">
+
 ![Total Stars](https://img.shields.io/badge/Total%20Stars-XX-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209)  
 ![Total Forks](https://img.shields.io/badge/Total%20Forks-XX-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209)  
 ![Public Repos](https://img.shields.io/badge/Public%20Repos-XX-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209)  
@@ -123,9 +123,14 @@
 
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<div align="right">
+  
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400"> 
+
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 > "One line of code a day builds the future, line by line."
