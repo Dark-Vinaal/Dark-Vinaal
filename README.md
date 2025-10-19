@@ -115,10 +115,12 @@
 </div>
 
 <div align="center">
+  
 ![Total Stars](https://img.shields.io/badge/Total%20Stars-XX-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209)  
 ![Total Forks](https://img.shields.io/badge/Total%20Forks-XX-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209)  
 ![Public Repos](https://img.shields.io/badge/Public%20Repos-XX-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209)  
 ![Contributors](https://img.shields.io/badge/Contributors-XX-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209)  
+
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
