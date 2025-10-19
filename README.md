@@ -91,12 +91,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 📊 GitHub Stats: 
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDark-Vinaal&label=VISITORS&labelColor=%23000&countColor=%23FFFFFF" />
-  <br><br>
-</div>
-
+## 📊 GitHub Stats 
 ![](https://github-readme-stats.vercel.app/api?username=Dark-Vinaal&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=Dark-Vinaal&theme=ambient_gradient&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Vinaal&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -104,15 +99,22 @@
 ## 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=Dark-Vinaal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dark-Vinaal&limit=5&theme=dark&combine_all_yearly_contributions=true)   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" /> 
+![](https://github-contributor-stats.vercel.app/api?username=Dark-Vinaal&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-[![](https://visitcount.itsvg.in/api?id=Dark-Vinaal&icon=6&color=0)](https://visitcount.itsvg.in)
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" /> 
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+[![](https://visitcount.itsvg.in/api?id=Dark-Vinaal&icon=6&color=0)](https://visitcount.itsvg.in) 
+
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDark-Vinaal&label=VISITORS&labelColor=%23000&countColor=%23FFFFFF" />
+  <br><br>
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
