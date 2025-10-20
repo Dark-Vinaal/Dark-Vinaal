@@ -142,12 +142,13 @@
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="Mint Linux" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Linux_Mint_logo_2022.svg"> 
   <img align="center" alt="Kali" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg">
   <img align="center" alt="LangChain" height="30" width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
   <img align="center" alt="Blockchain" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/6009/6009978.png"> 
-  <img align="center" alt="REST API" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/590/590685.png"> 
+  <img align="center" alt="REST API" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/590/590685.png">
+
 </div>
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
