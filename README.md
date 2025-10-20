@@ -94,7 +94,7 @@
 | **💻 Operating Systems** |  | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
 
 <br><br>
-## [✨ Had Interest In] (https://github.com/Dark-Vinaal) <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+## [✨ Had Interest In](https://github.com/Dark-Vinaal) <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -168,7 +168,7 @@
 ## [📊 GitHub Stats ](https://github.com/jstrieb/github-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Dark-Vinaal&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=Dark-Vinaal&theme=ambient_gradient&hide_border=false)<br/>
 
-## [💡 Most Used Skills] (https://github.com/Dark-Vinaal)
+## [💡 Most Used Skills](https://github.com/Dark-Vinaal)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
