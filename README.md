@@ -186,7 +186,7 @@
 ## [🏆 GitHub Trophies](https://github.com/Dark-Vinaal#-github-trophies)
 ![](https://github-profile-trophy.vercel.app/?username=Dark-Vinaal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## [🔝 Top Contributed Repo](https://github.com/Dark-Vinaal-top-contributed-repo)
+## [🔝 Top Contributed Repo](https://github.com/Dark-Vinaal#-top-contributed-repo)
 ![](https://github-contributor-stats.vercel.app/api?username=Dark-Vinaal&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
