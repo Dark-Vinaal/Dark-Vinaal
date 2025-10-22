@@ -14,7 +14,7 @@
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## [🌐 Socials & Profiles](https://github.com/Dark-Vinaal)
+## [🌐 Socials & Profiles](https://github.com/Dark-Vinaal#-socials--profiles)
 
 <br>
 <div align="center">
