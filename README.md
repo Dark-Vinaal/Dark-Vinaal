@@ -61,7 +61,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## [🧠 Skills](https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/README.md#-skills--)  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
+## [🧠 Skills](https://github.com/Dark-Vinaal#-skills--)  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
 | **Category** | **Skills** |
 |---------------|------------|
@@ -79,7 +79,7 @@
 | **Learning Platforms** | ![Udemy](https://img.shields.io/badge/Udemy-%23A435F0.svg?style=for-the-badge&logo=udemy&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-%232D8CFF.svg?style=for-the-badge&logo=coursera&logoColor=white) ![Simplilearn](https://img.shields.io/badge/Simplilearn-%2300599C.svg?style=for-the-badge&logo=skillshare&logoColor=white) ![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Google Learning](https://img.shields.io/badge/Google%20Learning-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white) ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-%230A0A23.svg?style=for-the-badge&logo=freecodecamp&logoColor=white) ![Great Learning](https://img.shields.io/badge/Great%20Learning-%23007ACC.svg?style=for-the-badge&logo=googleclassroom&logoColor=white) ![GUVI](https://img.shields.io/badge/GUVI-%2320C997.svg?style=for-the-badge&logo=python&logoColor=white) ![IBM SkillsBuild](https://img.shields.io/badge/IBM%20SkillsBuild-%230052CC.svg?style=for-the-badge&logo=ibm&logoColor=white) |
 
 
-## [🎯 Learning Progress Overview](https://github.com/Dark-Vinaal) <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
+## [🎯 Learning Progress Overview](https://github.com/Dark-Vinaal#-learning-progress-overview-) <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
 | **Skills** | **🟢 Learning Now** | **🔵 Next Up** |
 |-------------|--------------------------|----------------------------------|
@@ -95,7 +95,7 @@
 | **💻 Operating Systems** |  | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
 
 <br><br>
-## [✨ Had Interest In](https://github.com/Dark-Vinaal) <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+## [✨ Had Interest In](https://github.com/Dark-Vinaal#-had-interest-in-) <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -153,7 +153,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## [📝 Projects](https://github.com/Dark-Vinaal)
+## [📝 Projects](https://github.com/Dark-Vinaal#-projects-)
 
 | Projects              | Deployed Link                       | Repository                          | Tech Stack & Tools |
 |-----------------------|------------------------------------|-------------------------------------|------------------|
@@ -166,10 +166,10 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## [📊 GitHub Stats ](https://github.com/jstrieb/github-stats)
+## [📊 GitHub Stats ](https://github.com/Dark-Vinaal#-github-stats-)
 ![](https://github-readme-stats.vercel.app/api?username=Dark-Vinaal&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=Dark-Vinaal&theme=ambient_gradient&hide_border=false)<br/>
 
-## [💡 Most Used Skills](https://github.com/Dark-Vinaal)
+## [💡 Most Used Skills](https://github.com/Dark-Vinaal#-most-used-skills-)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -183,15 +183,15 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Vinaal&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
-## [🏆 GitHub Trophies](https://github.com/Dark-Vinaal)
+## [🏆 GitHub Trophies](https://github.com/Dark-Vinaal#-github-trophies-)
 ![](https://github-profile-trophy.vercel.app/?username=Dark-Vinaal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## [🔝 Top Contributed Repo](https://github.com/Dark-Vinaal)
+## [🔝 Top Contributed Repo](https://github.com/Dark-Vinaal#-top-contributed-repo-)
 ![](https://github-contributor-stats.vercel.app/api?username=Dark-Vinaal&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## [✍️ Random Dev Quote](https://github.com/Dark-Vinaal)
+## [✍️ Random Dev Quote](https://github.com/Dark-Vinaal#-random-dev-quote-)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" /> 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
