@@ -1,9 +1,9 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+![Header](https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/github-profile-banner.png)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## [💫 About Me](https://github.com/Dark-Vinaal#-about-me)
-
 
 ### An Aspiring Tech Lover with a Passion for Coding, Designing, Gaming, and Artificial Intelligence
 
@@ -60,6 +60,8 @@
 <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## [🧠 Skills](https://github.com/Dark-Vinaal#-skills--)  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
@@ -94,10 +96,9 @@
 | **🎮 Game Engines (FW)** |  | ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23383838.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23000000.svg?style=for-the-badge&logo=ubisoft&logoColor=white) |
 | **💻 Operating Systems** |  | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
 
-<br><br>
 ## [✨ Had Interest In](https://github.com/Dark-Vinaal#-had-interest-in-) <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"?>
   <img align="center" alt="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
@@ -147,7 +148,6 @@
   <img align="center" alt="LangChain" height="30" width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
   <img align="center" alt="Blockchain" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/6009/6009978.png"> 
   <img align="center" alt="REST API" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/590/590685.png">
-
 </div>
 
 
