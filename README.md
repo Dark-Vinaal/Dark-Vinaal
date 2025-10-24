@@ -160,12 +160,13 @@
 | Projects              | Deployed Link                       | Repository                          | Tech Stack & Tools |
 |-----------------------|------------------------------------|-------------------------------------|------------------|
 | Techy Zone            | [Link](https://techyzone.netlify.app/)     | [Pvt] | `HTML` `CSS` `GIT` `GitHub` `Netlify` `VS Code` |
-| Calculator            | [Link](https://dark-vinaal.github.io/Calculator-JS/)     | [Repo](https://github.com/Dark-Vinaal/Calculator-JS.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
+| Calculator JavaScript | [Link](https://dark-vinaal.github.io/Calculator-JS/)     | [Repo](https://github.com/Dark-Vinaal/Calculator-JS.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
+| Calculator Java       | [Link]()     | [Repo]() | `Java` `Java Swing Library` `JFrame` `GIT` `GitHub` `VS Code` |
 | Average Calculator    | [Link](https://dark-vinaal.github.io/Average-Calculator/)     | [Repo](https://github.com/Dark-Vinaal/Average-Calculator.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | BMI Calculator        | [Link](https://dark-vinaal.github.io/BMI-Calculator/)     | [Repo](https://github.com/Dark-Vinaal/BMI-Calculator.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | Facebook Login Page   | [Link](https://dark-vinaal.github.io/facebook-login/)     | [Repo](https://github.com/Dark-Vinaal/facebook-login.git) | `HTML` `CSS` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | Asphalt Velocity      | [Not yet published] | [Repo](https://github.com/Dark-Vinaal/Car-Zone.git) | `HTML` `CSS` `Bootstrap` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
-| Premora               | [Featured Soon] | [Repo] |  `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `Netlify` `VS Code` |
+| Premora               | [Featured Soon] | [Repo]() |  `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `Netlify` `VS Code` |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
