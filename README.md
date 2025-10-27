@@ -15,6 +15,8 @@
   </a>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=✨+Hey+there+👋,+I'm+Vinaal+R!;🚀+Welcome+to+My+Profile!;💻+Passionate+Coder,+Creative+Designer,+Editor,+Gamer...;🧠+Forever+Exploring+New+Tech+%26+Tools;✨+FullStack+%26+Software+Dev+Enthusiast+❤️;🔥+Always+Learning,+Building+,+Innovating!+🦾;Here+to+Connect+%26+Grow!)](https://git.io/typing-svg)
+
 ## [💫 About Me](https://github.com/Dark-Vinaal#-about-me)
 
 ### An Aspiring Tech Lover with a Passion for Coding, Designing, Gaming, and Artificial Intelligence
