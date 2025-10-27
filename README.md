@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDark-Vinaal&label=VISITORS&labelColor=%23000&countColor=%23FFFFFF" />
 </div>
-<div align="right">
+<div align="center">
   <a href="https://github.com/Dark-Vinaal/Dark-Vinaal/stargazers">
     <img src="https://img.shields.io/github/stars/Dark-Vinaal/Dark-Vinaal.svg?logo=github">
   </a>
