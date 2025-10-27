@@ -3,6 +3,18 @@
 ![Header](https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/github-profile-banner.png)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDark-Vinaal&label=VISITORS&labelColor=%23000&countColor=%23FFFFFF" />
+</div>
+<div align="right">
+  <a href="https://github.com/Dark-Vinaal/Dark-Vinaal/stargazers">
+    <img src="https://img.shields.io/github/stars/Dark-Vinaal/Dark-Vinaal.svg?logo=github">
+  </a>
+  <a href="https://github.com/Dark-Vinaal/Dark-Vinaal/network/members">
+    <img src="https://img.shields.io/github/forks/Dark-Vinaal/Dark-Vinaal.svg?color=blue&logo=github">
+  </a>
+</div>
+
 ## [💫 About Me](https://github.com/Dark-Vinaal#-about-me)
 
 ### An Aspiring Tech Lover with a Passion for Coding, Designing, Gaming, and Artificial Intelligence
@@ -154,7 +166,6 @@
   <img align="center" alt="REST API" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/590/590685.png">
 </div>
 
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## [📝 Projects](https://github.com/Dark-Vinaal#-projects)
@@ -199,25 +210,6 @@
 
 ## [✍️ Random Dev Quote](https://github.com/Dark-Vinaal#%EF%B8%8F-random-dev-quote)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" /> 
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-## [GitHub Profile](https://github.com/Dark-Vinaal#github-profile)
-
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDark-Vinaal&label=VISITORS&labelColor=%23000&countColor=%23FFFFFF" />
-  <br><br>
-</div>
-
-<div align="left">
-
-![Total Stars](https://img.shields.io/badge/Total%20Stars-XX-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209)  
-![Total Forks](https://img.shields.io/badge/Total%20Forks-XX-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209)  
-![Public Repos](https://img.shields.io/badge/Public%20Repos-XX-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209)  
-![Contributors](https://img.shields.io/badge/Contributors-XX-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209)  
-
-</div>
-
 
 <div align="right">
   
