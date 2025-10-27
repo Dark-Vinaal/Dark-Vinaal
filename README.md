@@ -239,9 +239,8 @@
 
 ![](https://count.getloli.com/get/@Dark-Vinaal.github.readme)
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Dark-Vinaal/Dark-Vinaal/output/github-contribution-grid-snake-dark.svg)
 
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
-
+![Dark-Vinaal's github activity graph](https://raw.githubusercontent.com/Dark-Vinaal/Dark-Vinaal/output/github-contribution-grid-snake.svg) 
 
 ![](https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/Bottom_down.svg)
