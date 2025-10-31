@@ -40,6 +40,12 @@
 - Aiming to grow as a **Full Stack Developer** or **Software Developer**.  
 - Skilled in web development, problem-solving, and exploring emerging technologies.
 - Aiming to build a Responsive web design.
+- Hobbies
+  - Coding
+  - Designing
+  - Editing
+  - Gaming
+  - Watching Movies/Series/Anime
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
