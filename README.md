@@ -1,6 +1,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ![Header](https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/github-profile-banner.png)
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
@@ -139,22 +140,15 @@
 
 ## [💡 Most Used Skills](https://github.com/Dark-Vinaal#-most-used-skills)
 
-<div style="display: inline_block">
+<div align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65">
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65">
-</div><br>
-
-<div style="display: inline_block">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"?>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
 </div><br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Vinaal&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
