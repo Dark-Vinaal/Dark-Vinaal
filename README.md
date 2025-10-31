@@ -4,6 +4,14 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=✨+Hey+there+👋,+I'm+Vinaal+R!;🚀+Welcome+to+My+Profile!;💻+Passionate+Coder,+Creative+Designer,+Editor,+Gamer...;🧠+Forever+Exploring+New+Tech+%26+Tools)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=✨+FullStack+%26+Software+Dev+Enthusiast+❤️;🔥+Always+Learning,+Building+,+Innovating!+🦾;🌱+Here+to+Connect+%26+Grow!)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=420&lines=SELF-TAUGHT+FULLSTACK+DEV" alt="Typing SVG" />
+</p>
+
 <div align="center">
   <table>
     <tr>
@@ -20,13 +28,9 @@
       </td>
     </tr>
   </table>
-</div><br>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=✨+Hey+there+👋,+I'm+Vinaal+R!;🚀+Welcome+to+My+Profile!;💻+Passionate+Coder,+Creative+Designer,+Editor,+Gamer...;🧠+Forever+Exploring+New+Tech+%26+Tools;✨+FullStack+%26+Software+Dev+Enthusiast+❤️;🔥+Always+Learning,+Building+,+Innovating!+🦾;Here+to+Connect+%26+Grow!)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=420&lines=SELF-TAUGHT+FULLSTACK+DEV" alt="Typing SVG" />
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## [💫 About Me](https://github.com/Dark-Vinaal#-about-me)
 
@@ -82,7 +86,6 @@
 </a>
 
 </div>
-<br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
