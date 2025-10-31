@@ -5,21 +5,27 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDark-Vinaal&label=VISITORS&labelColor=%23000&countColor=%23FFFFFF" />
-</div>
-<div align="center">
-  <a href="https://github.com/Dark-Vinaal/Dark-Vinaal/stargazers">
-    <img src="https://img.shields.io/github/stars/Dark-Vinaal/Dark-Vinaal.svg?logo=github">
-  </a>
-  <a href="https://github.com/Dark-Vinaal/Dark-Vinaal/network/members">
-    <img src="https://img.shields.io/github/forks/Dark-Vinaal/Dark-Vinaal.svg?color=blue&logo=github">
-  </a>
+  <table>
+    <tr>
+      <td align="left">
+         <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDark-Vinaal&label=VISITORS&labelColor=%23000&countColor=%23FFFFFF" />
+      </td>
+      <td align="right">
+        <a href="https://github.com/Dark-Vinaal/Dark-Vinaal/stargazers">
+          <img src="https://img.shields.io/github/stars/Dark-Vinaal/Dark-Vinaal.svg?logo=github">
+        </a>
+        <a href="https://github.com/Dark-Vinaal/Dark-Vinaal/network/members">
+         <img src="https://img.shields.io/github/forks/Dark-Vinaal/Dark-Vinaal.svg?color=blue&logo=github">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=✨+Hey+there+👋,+I'm+Vinaal+R!;🚀+Welcome+to+My+Profile!;💻+Passionate+Coder,+Creative+Designer,+Editor,+Gamer...;🧠+Forever+Exploring+New+Tech+%26+Tools;✨+FullStack+%26+Software+Dev+Enthusiast+❤️;🔥+Always+Learning,+Building+,+Innovating!+🦾;Here+to+Connect+%26+Grow!)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=420&lines=SELF+TAUGHT+FullStack+DEV" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=420&lines=SELF-TAUGHT+FULLSTACK+DEV" alt="Typing SVG" />
 </p>
 
 ## [💫 About Me](https://github.com/Dark-Vinaal#-about-me)
