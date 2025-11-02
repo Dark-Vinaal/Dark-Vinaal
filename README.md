@@ -254,6 +254,10 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<p align="center">
+  <b style="letter-spacing: 10px; font-size: 20px;">V I S I T O R S</b><br>
+  <img src="https://count.getloli.com/get/@Dark-Vinaal.github.readme" alt="Visitor Count">
+</p>
 
 > "One line of code a day builds the future, line by line."
 
@@ -267,11 +271,7 @@
 
 > "One line of code a day is the seed of mastery."
 
-<br><br>
-
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">        <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
-
-![](https://count.getloli.com/get/@Dark-Vinaal.github.readme)
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Dark-Vinaal/Dark-Vinaal/output/github-contribution-grid-snake-dark.svg)
 
