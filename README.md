@@ -113,7 +113,7 @@
 | **Toolkits & Environments** | ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![JDK](https://img.shields.io/badge/JDK-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white) ![JRE](https://img.shields.io/badge/JRE-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MinGW](https://img.shields.io/badge/MinGW-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
 
 
-## [🧠 Stacks and Apps That I'm Familiar With](https://github.com/Dark-Vinaal#-skills--)  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
+## [🧠 Tools & Softwares I'm Familiar With](https://github.com/Dark-Vinaal#-tools--softwares-im-familiar-with--)  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
 | **Category** | **Stacks** |
 |---------------|------------|
