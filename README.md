@@ -78,7 +78,7 @@
 <a href="mailto:vinaalm898@gmail.com">
   <img src="https://img.shields.io/badge/Email-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email" />
 </a>
-<a href="https://github.com/Tech-Vinaal">
+<a href="https://github.com/Darkxzz">
   <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" />
 </a>
 <a href="https://codepen.io/@Dark-Vinaal">
