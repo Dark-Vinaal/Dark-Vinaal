@@ -18,7 +18,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=✨+FullStack+%26+Software+Dev+Enthusiast+❤️;🔥+Always+Learning,+Building+,+Innovating!+🦾;💻+Passionate+Coder,+Creative+Designer,+Editor,+Gamer...;🧠+Forever+Exploring+New+Tech+%26+Tools)](https://git.io/typing-svg)
 
-  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=💻+Self-Taught+FullStack+Developer+🚀🔥)](https://git.io/typing-svg)
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=🌱+Here+to+Connect+%26+Grow!)](https://git.io/typing-svg)
 
