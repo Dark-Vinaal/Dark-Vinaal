@@ -4,13 +4,26 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=✨+Hey+there+👋,+I'm+Vinaal+R!;🚀+Welcome+to+My+Profile!;💻+Passionate+Coder,+Creative+Designer,+Editor,+Gamer...;🧠+Forever+Exploring+New+Tech+%26+Tools)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Dark-Vinaal&data=followers,repositories,stars,commits&theme=radical&title_color=00FFFF">
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=✨+FullStack+%26+Software+Dev+Enthusiast+❤️;🔥+Always+Learning,+Building+,+Innovating!+🦾;🌱+Here+to+Connect+%26+Grow!)](https://git.io/typing-svg)
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=420&lines=SELF-TAUGHT+FULLSTACK+DEV" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=200&size=40&duration=1000&pause=1000&color=F7F7F7&center=true&multiline=true&width=2000&height=100&lines=✨+Hey+there+👋,+I'm+Vinaal+R!+(Dark-Vinaal)+👨🏻‍💻" alt="Hey there, I'm Vinaal R!">
+
+  <br>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=🚀+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=✨+FullStack+%26+Software+Dev+Enthusiast+❤️;🔥+Always+Learning,+Building+,+Innovating!+🦾;💻+Passionate+Coder,+Creative+Designer,+Editor,+Gamer...;🧠+Forever+Exploring+New+Tech+%26+Tools)](https://git.io/typing-svg)
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=🌱+Here+to+Connect+%26+Grow!)](https://git.io/typing-svg)
+
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=420&lines=SELF-TAUGHT+FULLSTACK+DEV" alt="Typing SVG">
+
+</div>
+
 
 <div align="center">
   <table>
@@ -257,10 +270,6 @@
 <img width="1920" height="1080" alt="combine" src="https://github.com/user-attachments/assets/ddac5c09-88e9-488f-a901-ce48b4cc24c4" />
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Dark-Vinaal&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
-</p>
-
-<p align="center">
   <b style="letter-spacing: 10px; font-size: 20px;">V I S I T O R S</b><br>
   <img src="https://count.getloli.com/get/@Dark-Vinaal.github.readme" alt="Visitor Count">
 </p>
@@ -282,10 +291,6 @@
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Dark-Vinaal/Dark-Vinaal/output/github-contribution-grid-snake-dark.svg)
 
 ![Dark-Vinaal's github activity graph](https://raw.githubusercontent.com/Dark-Vinaal/Dark-Vinaal/output/github-contribution-grid-snake.svg) 
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 
 <div align="center">
   <b> 💻 Made By <a href="https://github.com/Dark-Vinaal">Dark-Vinaal</a> | © All Rights Reserved 2025 <b> <br>
