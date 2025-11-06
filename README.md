@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=200&size=40&duration=1000&pause=1000&color=F7F7F7&center=true&multiline=true&width=2000&height=100&lines=✨+Hey+there+👋,+I'm+Vinaal+R!+(Dark-Vinaal)+👨🏻‍💻" alt="Hey there, I'm Vinaal R!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=200&size=40&duration=1000&pause=1000&color=F7F7F7&center=true&multiline=true&width=2000&height=100&lines=✨+Hey+there+👋+I'm+Vinaal+R!+(Dark-Vinaal)+👨🏻‍💻" alt="Hey there, I'm Vinaal R!">
 
   <br>
 
@@ -294,7 +294,7 @@
 
 <div align="center">
   <b> 💻 Made By <a href="https://github.com/Dark-Vinaal">Dark-Vinaal</a> | © All Rights Reserved 2025 <b> <br>
-  <b> Made with ❤️ & Built with passion ⚡ | Crafted for innovation 💻 <b>
+  <b> | Made with ❤️ | Built with passion ⚡ | Crafted for innovation 💻 | <b>
 </div>
 
 ![](https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/Bottom_down.svg)
