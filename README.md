@@ -254,6 +254,8 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<img width="1920" height="1080" alt="combine" src="https://github.com/user-attachments/assets/ddac5c09-88e9-488f-a901-ce48b4cc24c4" />
+
 <p align="center">
   <b style="letter-spacing: 10px; font-size: 20px;">V I S I T O R S</b><br>
   <img src="https://count.getloli.com/get/@Dark-Vinaal.github.readme" alt="Visitor Count">
