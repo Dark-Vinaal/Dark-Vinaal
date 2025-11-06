@@ -257,6 +257,10 @@
 <img width="1920" height="1080" alt="combine" src="https://github.com/user-attachments/assets/ddac5c09-88e9-488f-a901-ce48b4cc24c4" />
 
 <p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Dark-Vinaal&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+</p>
+
+<p align="center">
   <b style="letter-spacing: 10px; font-size: 20px;">V I S I T O R S</b><br>
   <img src="https://count.getloli.com/get/@Dark-Vinaal.github.readme" alt="Visitor Count">
 </p>
@@ -278,5 +282,14 @@
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Dark-Vinaal/Dark-Vinaal/output/github-contribution-grid-snake-dark.svg)
 
 ![Dark-Vinaal's github activity graph](https://raw.githubusercontent.com/Dark-Vinaal/Dark-Vinaal/output/github-contribution-grid-snake.svg) 
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<div align="center">
+  <b> 💻 Made By <a href="https://github.com/Dark-Vinaal">Dark-Vinaal</a> | © All Rights Reserved 2025 <b> <br>
+  <b> Made with ❤️ & Built with passion ⚡ | Crafted for innovation 💻 <b>
+</div>
 
 ![](https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/Bottom_down.svg)
