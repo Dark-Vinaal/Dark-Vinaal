@@ -111,14 +111,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&color=00FFFF&center=true&vCenter=true&width=800&lines=The+woods+are+lovely,+dark+and+deep,;But+I+have+promises+to+keep,;And+miles+to+go+before+I+sleep,;And+miles+to+go+before+I+sleep." />
-</p>
-
-<p align="right">
-  — <b>Robert Frost</b>
-</p>
-
 ## [🧠 Skills](https://github.com/Dark-Vinaal#-skills--)  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
 | **Category** | **Skills** |
@@ -161,6 +153,15 @@
 | **⚙️ Containerization & Orchestration** |  | ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
 | **🎮 Game Engines (FW)** |  | ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23383838.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23000000.svg?style=for-the-badge&logo=ubisoft&logoColor=white) |
 | **💻 Operating Systems** |  | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 	![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|
+
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&color=00FFFF&center=true&vCenter=true&width=800&lines=The+woods+are+lovely,+dark+and+deep,;But+I+have+promises+to+keep,;And+miles+to+go+before+I+sleep,;And+miles+to+go+before+I+sleep." />
+</p>
+
+<p align="right">
+  — <b>Robert Frost</b>
+</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
