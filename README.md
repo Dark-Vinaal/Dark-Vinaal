@@ -44,6 +44,8 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
+
 ## [💫 About Me](https://github.com/Dark-Vinaal#-about-me)
 
 ### An Aspiring Tech Lover with a Passion for Coding, Designing, Gaming, and Artificial Intelligence
