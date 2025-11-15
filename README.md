@@ -178,8 +178,9 @@
 | Palindrome Checker    | [Link](https://dark-vinaal.github.io/Palindrome-JS/)    | [Repo](https://github.com/Dark-Vinaal/Palindrome-JS.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | Facebook Login Page   | [Project Unpublished]     | [Repo](https://github.com/Tech-Vinaal/facebook-loginpage-clone.git) | `HTML` `CSS` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | BioData Form          | [Link](https://dark-vinaal.github.io/biodata-form/)       | [Repo](https://github.com/Dark-Vinaal/biodata-form.git)   | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
+| Portfolio             | [Link] | [Repo] |  `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `Netlify` `Cursor` `Vibe Coding` |
 | Asphalt Velocity      | [Not yet published] | [Repo](https://github.com/Dark-Vinaal/Car-Zone.git) | `HTML` `CSS` `Bootstrap` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
-| Premora               | [Featured Soon] | [Pvt] |  `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `Netlify` `VS Code` |
+| Premora               | [Featured Soon] | [Pvt] | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `Netlify` `VS Code` |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
