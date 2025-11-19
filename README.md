@@ -54,13 +54,22 @@
 - Aiming to grow as a **Full Stack Developer** or **Software Developer**.  
 - Skilled in web development, problem-solving, and exploring emerging technologies.
 - Aiming to build a Responsive web design.
-- Hobbies
-  - Coding
-  - Designing
-  - Editing
-  - Gaming
-  - Watching Movies/Series/Anime
-  
+
+<details>
+  <summary><b>Hobbies</b></summary>
+  - Coding  
+  - Designing  
+  - Editing  
+  - Gaming  
+  - Watching Movies,Web Series, Anime  
+</details>
+
+<details>
+  <summary><b>Carrear Goal</b></summary>
+  - FullStack Web Developer
+  - Software Developer
+</details>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## [🌐 Socials & Profiles](https://github.com/Dark-Vinaal#-socials--profiles)
