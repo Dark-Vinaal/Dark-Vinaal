@@ -57,17 +57,21 @@
 
 <details>
   <summary><b>Hobbies</b></summary>
+  
   - Coding  
   - Designing  
   - Editing  
   - Gaming  
   - Watching Movies,Web Series, Anime  
+
 </details>
 
 <details>
   <summary><b>Carrear Goal</b></summary>
+
   - FullStack Web Developer
   - Software Developer
+
 </details>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
