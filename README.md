@@ -277,12 +277,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" /> 
 
-<div align="right">
-  
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400"> 
-
-</div>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <img width="1920" height="1080" alt="combine" src="https://github.com/user-attachments/assets/ddac5c09-88e9-488f-a901-ce48b4cc24c4" />
@@ -303,6 +297,12 @@
 > "One line of code a day keeps procrastination away."
 
 > "One line of code a day is the seed of mastery."
+
+<div align="right">
+  
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400"> 
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">        <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
 
