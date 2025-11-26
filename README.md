@@ -324,7 +324,11 @@
 <div align="center">
   
   <b> 💻 Made By <a href="https://github.com/Dark-Vinaal">Dark-Vinaal</a> | © All Rights Reserved 2025 <b> <br>
-  <b> | Made with ❤️ | Built with passion ⚡ | Crafted for innovation 💻 | <b> <br>
+  <b> | Made with ❤️ | Built with passion ⚡ | Crafted for innovation 💻 | <b> 
+
+  <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=185&height=20&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+Vinaal" alt="build with love svg" />
+
+  <br> <br>
   
   <a href="https://www.linkedin.com/in/vinaal/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
@@ -360,6 +364,12 @@
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Dark-Vinaal/Dark-Vinaal/output/github-contribution-grid-snake-dark.svg)
 
 ![Dark-Vinaal's github activity graph](https://raw.githubusercontent.com/Dark-Vinaal/Dark-Vinaal/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+    <img loading="lazy" 
+        alt="visitor badge" 
+        src="https://montasim-github-readme-activity-graph.vercel.app/graph?username=dark-vinaal&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
+</div>
 
 <div align="center">
     <img loading="lazy" width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
