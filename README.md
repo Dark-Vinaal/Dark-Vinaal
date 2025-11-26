@@ -331,23 +331,27 @@
   
   <b> 💻 Made By <a href="https://github.com/Dark-Vinaal">Dark-Vinaal</a> | © All Rights Reserved 2025 <b> <br>
   <b> | Made with ❤️ | Built with passion ⚡ | Crafted for innovation 💻 | <b> <br>
-    
-  <a href="https://www.linkedin.com/in/vinaal/" target="_blank" style="margin-right:10px">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Dark-Vinaal" target="_blank" style="margin-right:10px">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/__Vinaal__" target="_blank" style="margin-right:10px">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:vinaalm898@gmail.com" target="_blank" style="margin-right:10px">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="22px" width="22px" />
-  </a>
   
+  <a href="https://www.linkedin.com/in/vinaal/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+    alt="linkedin" height="30" width="40" />
+  </a>
+
+  <a href="https://github.com/Dark-Vinaal" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
+    alt="github" height="30" width="40" />
+  </a>
+
+  <a href="https://x.com/__Vinaal__" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+    alt="twitter" height="30" width="40" />
+  </a>
+
+ <a href="mailto:vinaalm898@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg"
+    alt="gmail" height="30" width="40" />
+  </a>
+
 </div>
 
 <div align="center">
