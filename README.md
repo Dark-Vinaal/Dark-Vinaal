@@ -210,9 +210,7 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
 </div><br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Vinaal&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dark-Vinaal&theme=github_dark)    ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dark-Vinaal&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Vinaal&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)    ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dark-Vinaal&theme=github_dark)    ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dark-Vinaal&theme=github_dark)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
