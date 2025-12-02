@@ -191,9 +191,9 @@
 
 ## [📊 GitHub Stats ](https://github.com/Dark-Vinaal#-github-stats-)
 
-![My GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Dark-Vinaal&theme=ambient_gradient)
+![](https://nirzak-stats.vercel.app/api?username=Dark-Vinaal&theme=ambient_gradient&hide_border=false)     ![](https://github-readme-streak-stats.herokuapp.com/?user=Dark-Vinaal&theme=ayu-mirage&hide_border=false)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dark-Vinaal&theme=ayu-mirage&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Dark-Vinaal&ring=00FFFF&fire=00BFFF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=A8F6FF&background=000000&hide_border=false)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -210,7 +210,9 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
 </div><br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Vinaal&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)    ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dark-Vinaal&theme=github_dark)    ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dark-Vinaal&theme=github_dark)
+![](https://nirzak-stats.vercel.app/api/top-langs/?username=Dark-Vinaal&layout=compact&theme=ambient_gradient&hide_border=false)    
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dark-Vinaal&theme=github_dark)    ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dark-Vinaal&theme=github_dark)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
