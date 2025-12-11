@@ -171,21 +171,16 @@
 
 ## [📝 Projects](https://github.com/Dark-Vinaal#-projects)
 
-| Projects              | Deployed Link                       | Repository                          | Tech Stack & Tools |
-|-----------------------|------------------------------------|-------------------------------------|------------------|
-| Techy Zone            | [Link](https://techyzone.netlify.app/)     | [Pvt] | `HTML` `CSS` `GIT` `GitHub` `Netlify` `VS Code` |
-| Calculator JavaScript | [Link](https://dark-vinaal.github.io/Calculator-JS/)     | [Repo](https://github.com/Dark-Vinaal/Calculator-JS.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
-| Calculator Java       | [Not Published]     | [Repo](https://github.com/Dark-Vinaal/Calculator-Java.git) | `Java` `Java Swing Library` `JFrame` `GIT` `GitHub` `VS Code` |
-| Average Calculator    | [Link](https://dark-vinaal.github.io/Average-Calculator/)     | [Repo](https://github.com/Dark-Vinaal/Average-Calculator.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
-| BMI Calculator        | [Link](https://dark-vinaal.github.io/BMI-Calculator/)     | [Repo](https://github.com/Dark-Vinaal/BMI-Calculator.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
-| Factorial Calculator  | [Link](https://dark-vinaal.github.io/Factorial-JS/)    | [Repo](https://github.com/Dark-Vinaal/Factorial-JS.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
-| Palindrome Checker    | [Link](https://dark-vinaal.github.io/Palindrome-JS/)    | [Repo](https://github.com/Dark-Vinaal/Palindrome-JS.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
-| Facebook Login Page   | [Project Unpublished]     | [Repo](https://github.com/Tech-Vinaal/facebook-loginpage-clone.git) | `HTML` `CSS` `GIT` `GitHub` `GitHub Pages` `VS Code` |
-| BioData Form          | [Link](https://dark-vinaal.github.io/biodata-form/)       | [Repo](https://github.com/Dark-Vinaal/biodata-form.git)   | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
-| Portfolio             | [Link] | [Repo](https://github.com/Dark-Vinaal/vinaal_portfolio) |  `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `Netlify` `Cursor` `Anty-Gravity` `Vibe Coding` |
-| Asphalt Velocity      | [Not yet published] | [Repo](https://github.com/Dark-Vinaal/Car-Zone.git) | `HTML` `CSS` `Bootstrap` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
-| Mobile SmartZ         | [Link](https://dark-vinaal.github.io/E-commerce-site-bootstrap/) | [Repo](https://github.com/Dark-Vinaal/E-commerce-site-bootstrap) | `HTML` `CSS` `bootstrap` `GIT` `GitHub` `GitHub Pages` `VS Code` |
-| Premora               | [Featured Soon] | [Pvt] | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `Netlify` `VS Code` |
+Hey Guys! To View and Explore all of my Complete Projects Collection, Click here!!! [View](https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/PROJECTS/Projects.md) 
+
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&color=00FFFF&center=true&vCenter=true&width=800&lines=The+woods+are+lovely,+dark+and+deep,;But+I+have+promises+to+keep,;And+miles+to+go+before+I+sleep,;And+miles+to+go+before+I+sleep." />
+</p>
+
+<p align="right">
+  — <b>Robert Frost</b>
+</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -308,15 +303,6 @@
 > "One line of code a day is the seed of mastery."
 
 ---
-
-<br>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&color=00FFFF&center=true&vCenter=true&width=800&lines=The+woods+are+lovely,+dark+and+deep,;But+I+have+promises+to+keep,;And+miles+to+go+before+I+sleep,;And+miles+to+go+before+I+sleep." />
-</p>
-
-<p align="right">
-  — <b>Robert Frost</b>
-</p>
 
 > <img src="https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/life_balance.gif" alt="LifeBalance" width="180" style="vertical-align: middle; display: inline-block;" />
 
