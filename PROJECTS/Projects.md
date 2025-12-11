@@ -71,6 +71,19 @@ Passionate Learner | Creative Developer | Coding Enthusiast
 
 ### Contact me through 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinaal/) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Dark-Vinaal) 
+<div align="center">
+  <a href="https://vinaalr.netlify.app/">
+  <img src="https://img.shields.io/badge/VR%20-%20Portfolio-d5d5d5?style=for-the-badge&labelColor=0A0209&color=d5d5d5&logoColor=0A0209" />
+</a>
+<a href="https://www.linkedin.com/in/vinaal/">
+  <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Dark-Vinaal">
+  <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" />
+</a>
+<a href="https://linktr.ee/Darkxzz999">
+  <img src="https://img.shields.io/badge/Linktree-d5d5d5?style=for-the-badge&logo=linktree&logoColor=0A0209" alt="Linktree" />
+</a>
+</div>
 
 ![](https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/Bottom_down.svg)
