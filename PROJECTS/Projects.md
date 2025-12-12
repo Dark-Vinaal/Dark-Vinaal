@@ -48,7 +48,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-### 🎨 Creative Projects
+### 🎨 Creative Projects (With AI Help)
 
 - These highlight my imaginative side — exploring new visuals, UI styles, and design expression.
 - These projects focus on creative expression and experimental design. They highlight my ability to explore ideas freely, try new visual styles, and bring a unique creative perspective into my work.
