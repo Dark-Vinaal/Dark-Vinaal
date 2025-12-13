@@ -46,9 +46,9 @@
 
 - Tool Based AI ML/Dl, RAG Projets
 
-| ⚡ Projects           | 🌍 Deployed Link                   | 📦 Repository                       | 🛠️ Tech Stack     |
-|-----------------------|-------------------------------------|-------------------------------------|--------------------|
-| CodaAI (ChatBot)      | [Open](https://poe.com/CodaAi) | [Repo] | ![POE AI](https://img.shields.io/badge/POE%20AI-1A1F4A?style=for-the-badge&logo=poe&logoColor=white) |
+| ⚡ Projects           | 🌍 Deployed Link                   | 🛠️ Tech Stack     |
+|-----------------------|-------------------------------------|--------------------|
+| CodaAI (ChatBot)      | [Open](https://poe.com/CodaAi) | ![POE AI](https://img.shields.io/badge/POE%20AI-1A1F4A?style=for-the-badge&logo=poe&logoColor=white) |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
