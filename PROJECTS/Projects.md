@@ -21,6 +21,8 @@
 - All of these projects are fully designed and developed by me. They represent my skills, my approach to problem-solving, and my commitment to building clean, purposeful work.
 - Each project below reflects my skill growth, design philosophy, problem-solving mindset, and dedication to creating clean, functional, and intentional work.
 
+#### Websites 
+
 | ⚡ Projects           | 🌍 Deployed Link                   | 📦 Repository                       | 🛠️ Tech Stack     |
 |-----------------------|-------------------------------------|-------------------------------------|--------------------|
 | Techy Zone            | [View](https://techyzone.netlify.app/)     | [Pvt] | `HTML` `CSS` `GIT` `GitHub` `Netlify` `VS Code` |
@@ -30,6 +32,22 @@
 | Calculator Java       | [Not Published]     | [Repo](https://github.com/Dark-Vinaal/Calculator-Java.git) | `Java` `Java Swing Library` `JFrame` `GIT` `GitHub` `VS Code` |
 | BioData Form          | [View](https://dark-vinaal.github.io/biodata-form/)       | [Repo](https://github.com/Dark-Vinaal/biodata-form.git)   | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | Premora               | [Featured Soon] | [Pvt] | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `Netlify` `VS Code` |
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+#### AI & ML/DL, RAG Projects
+
+| ⚡ Projects           | 🌍 Deployed Link                   | 📦 Repository                       | 🛠️ Tech Stack     |
+|-----------------------|-------------------------------------|-------------------------------------|--------------------|
+| Nova AI               | [Featured Soon] | [Repo} | |
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+#### Other Projects
+
+| ⚡ Projects           | 🌍 Deployed Link                   | 📦 Repository                       | 🛠️ Tech Stack     |
+|-----------------------|-------------------------------------|-------------------------------------|--------------------|
+| Color Picker          | [Not Deployed]  | [Repo](https://github.com/Dark-Vinaal/Color-Picker) | `CSS` `JavaScript` `JSON` `Chrome Extension` `Git` `GitHub` |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -44,6 +62,13 @@
 | BMI Calculator        | [Link](https://dark-vinaal.github.io/BMI-Calculator/)     | [Repo](https://github.com/Dark-Vinaal/BMI-Calculator.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | Factorial Calculator  | [Link](https://dark-vinaal.github.io/Factorial-JS/)    | [Repo](https://github.com/Dark-Vinaal/Factorial-JS.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | Palindrome Checker    | [Link](https://dark-vinaal.github.io/Palindrome-JS/)    | [Repo](https://github.com/Dark-Vinaal/Palindrome-JS.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+#### Cloning Projects
+
+| 🔧 Projects           | 🌍 Deployed Link                   | 📦 Repository                      | 🛠️ Tech Stack      |
+|-----------------------|-------------------------------------|-------------------------------------|--------------------|
 | Facebook Login Page   | [Project Unpublished]     | [Repo](https://github.com/Tech-Vinaal/facebook-loginpage-clone.git) | `HTML` `CSS` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
