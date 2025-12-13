@@ -37,9 +37,18 @@
 
 #### AI & ML/DL, RAG Projects
 
+- Own Coded AI ML/Dl, RAG Projects
+
 | ⚡ Projects           | 🌍 Deployed Link                   | 📦 Repository                       | 🛠️ Tech Stack     |
 |-----------------------|-------------------------------------|-------------------------------------|--------------------|
-| Nova AI               | [Featured Soon] | [Repo} | |
+| Nova AI (ChatBot)     | [Featured Soon] | [Repo] | `Python` |
+| JARVIS (Voice Assistant | [Featured Soon] | [Repo] | `Python` |
+
+- Tool Based AI ML/Dl, RAG Projets
+
+| ⚡ Projects           | 🌍 Deployed Link                   | 📦 Repository                       | 🛠️ Tech Stack     |
+|-----------------------|-------------------------------------|-------------------------------------|--------------------|
+| CodaAI (ChatBot)      | [Open](https://poe.com/CodaAi) | [Repo] | ![POE AI](https://img.shields.io/badge/POE%20AI-1A1F4A?style=for-the-badge&logo=poe&logoColor=white) |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -80,7 +89,7 @@
 
 | 🎨 Projects           | 🌍 Deployed Link                   | 📦 Repository                      | 🛠️ Tech Stack      | 🧰 Tools          |
 |-----------------------|-------------------------------------|-------------------------------------|--------------------|--------------------|
-| Portfolio             | [View](https://vinaalr.netlify.app/) | [Repo](https://github.com/Dark-Vinaal/vinaal_portfolio) |  `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `Netlify` | ![Antigravity](https://img.shields.io/badge/Antigravity-1A1F4A?style=for-the-badge&logo=google--assistant&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) |
+| Portfolio             | [View](https://vinaalr.netlify.app/) | [Repo](https://github.com/Dark-Vinaal/vinaal_portfolio) |  `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `Netlify` | ![Antigravity](https://img.shields.io/badge/Antigravity-1A1F4A?style=for-the-badge&logo=google--assistant&logoColor=white) |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
