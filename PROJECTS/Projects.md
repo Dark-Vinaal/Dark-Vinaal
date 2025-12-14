@@ -51,7 +51,8 @@
 
 | ⚡ Projects           | 🧩 Type           | 🌍 Deployed Link                   | 🛠️ Tech Stack     |
 |-----------------------|--------------------|-------------------------------------|--------------------|
-| DARK AI               | ChatBot            | [Open]() | ![Botpress](https://img.shields.io/badge/BOTPRESS-1A1F4A?style=for-the-badge&logo=botpress&logoColor=white) |
+| DARK AI               | ChatBot            | [Open](https://cdn.botpress.cloud/webchat/v3.5/shareable.html?configUrl=https://files.bpcontent.cloud/2025/12/14/14/20251214144035-T116179K.json) | ![Botpress](https://img.shields.io/badge/BOTPRESS-1A1F4A?style=for-the-badge&logo=botpress&logoColor=white) |
+| DARK AI PRO           | ChatBot            | [Featured Soon] | ![Botpress](https://img.shields.io/badge/BOTPRESS-1A1F4A?style=for-the-badge&logo=botpress&logoColor=white) |
 
 ### Agent Generated Projects
 
