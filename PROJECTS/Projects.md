@@ -61,6 +61,14 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+#### Gaming Projects
+
+| ⚡ Projects           | 🌍 Deployed Link                   | 📦 Repository                      | 🛠️ Tech Stack      |
+|-----------------------|-------------------------------------|-------------------------------------|--------------------|
+| Rock-Paper-Scissor    | [Deployed Soon] | [Repo](https://github.com/Dark-Vinaal/Rock-Paper-Scissor) | `Python` `Random Module` `Git` `GitHub`  |
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 #### Other Projects
 
 | ⚡ Projects           | 📦 Repository                      | 🛠️ Tech Stack     |
