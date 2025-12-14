@@ -42,8 +42,8 @@
 
 | ⚡ Projects           | 🧩 Type           | 🌍 Deployed Link                   | 📦 Repository                       | 🛠️ Tech Stack     |
 |-----------------------|--------------------|-------------------------------------|-------------------------------------|--------------------|
-| Nova AI               | ChatBot            | [Featured Soon] | [Repo] | `Python` |
-| JARVIS                | Voice Assistant    | [Featured Soon] | [Repo] | `Python` |
+| Nova AI               | ChatBot            | [Featured Soon] | [Repo] | `Python` `React.js` `TypeScript` `Tailwind` `LLM` `APIs` |
+| JARVIS                | Voice Assistant    | [Featured Soon] | [Repo] | `Python` `Eleven Labs` |
 | LocalChatBot          | RAG                | [Localhost - Usage] | [Repo](https://github.com/Dark-Vinaal/RAG) | `Python` `Langchain` `Streamlit` `Huggingface` `Artificial Intelligence` `Machine Learning` `retrieval-augmented-generation` `FAISS` `Ollama` `LLM` `sentence-transformers` `semantic-search` `vector-database` |
 
 ### ⚙️ Tool-Based Projects
