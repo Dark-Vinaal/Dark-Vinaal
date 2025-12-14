@@ -110,7 +110,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
 ## 🔜 Upcoming Projects
 
 - The following projects are currently under development and represent my next phase of learning and experimentation. They focus on modern frameworks, scalable architecture, and enhanced user experience, reflecting my continuous effort to grow with current technologies.
@@ -121,7 +120,6 @@
 | Dark Knight           | Website                | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
 | Flappy Bird           | Game | `Python` |
 | Mini Sudoku           | Game  | `Dart` `Flutter` |
-
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
