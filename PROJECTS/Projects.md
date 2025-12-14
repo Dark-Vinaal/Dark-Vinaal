@@ -6,7 +6,7 @@
 
 ## 🌟 PROJECTS SHOWCASE
 
-### 🌐 Welcome to My Project Showcase
+### 🧩 Welcome to My Project Showcase
 
 - This space is a curated collection of everything I’ve built so far — from full-scale applications to experimental ideas, practice mini-projects, and creative explorations. Here, I document my growth as a developer, my evolving skills, and the thought process behind each creation. Every project represents a milestone in my journey: learning new technologies, refining problem-solving techniques, and pushing myself to design cleaner, smarter, and more meaningful solutions.
 
@@ -16,12 +16,10 @@
 
 ## 🔥 FEATURED PROJECTS
 
-### 🧩 Main Projects
+### 🌐 Websites 
 
 - All of these projects are fully designed and developed by me. They represent my skills, my approach to problem-solving, and my commitment to building clean, purposeful work.
 - Each project below reflects my skill growth, design philosophy, problem-solving mindset, and dedication to creating clean, functional, and intentional work.
-
-#### Websites 
 
 | ⚡ Projects           | 🌍 Deployed Link                   | 📦 Repository                       | 🛠️ Tech Stack     |
 |-----------------------|-------------------------------------|-------------------------------------|--------------------|
@@ -34,7 +32,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-#### Upcoming Projects
+### 🔜 Upcoming Projects
 
 - The following projects are currently under development and represent my next phase of learning and experimentation. They focus on modern frameworks, scalable architecture, and enhanced user experience, reflecting my continuous effort to grow with current technologies.
 
@@ -45,7 +43,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-#### AI & ML/DL, RAG Projects
+### 🤖 AI & ML/DL, RAG Projects
 
 - Independently Developed Projects :
   - These projects are fully coded and implemented by me, focusing on core concepts of artificial intelligence, machine learning, deep learning, and retrieval-augmented generation. They showcase my understanding of logic design, model integration, and real-world application of AI concepts.
@@ -65,7 +63,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-#### Gaming Projects
+### 🎮 Gaming Projects
 
 - These projects focus on logic building, interaction design, and real-time user input handling. They allowed me to experiment with game mechanics, event-driven programming, and performance optimization while keeping development engaging and creative.
 
@@ -77,7 +75,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-#### Other Projects
+### 🔧 Other Projects
 
 - This section includes focused utility-based projects developed to solve specific problems or explore unique ideas. Each project emphasizes simplicity, functionality, and practical implementation.
 
