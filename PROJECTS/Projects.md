@@ -119,7 +119,11 @@
 | Premora               | E-Commerce Site        | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
 | Dark Knight           | Website                | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
 | Flappy Bird           | Game | `Python` |
-| Mini Sudoku           | Game  | `Dart` `Flutter` |
+| Mini Sudoku           | Game  | `Dart` `Flutter` `GIT` `GitHub` `VS Code` |
+| ChatNow               | Messenger | `Dart` `Flutter` `GIT` `GitHub` `VS Code` |
+| Instagram Clone | Clone App | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
+| Spotify Clone | Clone App | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
+| Swigy Clone | Clone App | `Dart` `Flutter` `GIT` `GitHub` `VS Code` |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
