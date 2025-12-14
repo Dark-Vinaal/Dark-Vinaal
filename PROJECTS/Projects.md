@@ -47,12 +47,20 @@
 
 ### ⚙️ Tool-Based Projects
 
-- These projects leverage established AI platforms and tools to explore practical use cases, workflow integration, and real-time deployment scenarios. They highlight my ability to adapt tools effectively while maintaining a strong conceptual understanding.
+- These projects leverage established tools to explore practical use cases, workflow integration, node management, and real-time deployment scenarios. They highlight my ability to adapt tools effectively while maintaining a strong conceptual understanding.
+
+| ⚡ Projects           | 🧩 Type           | 🌍 Deployed Link                   | 🛠️ Tech Stack     |
+|-----------------------|--------------------|-------------------------------------|--------------------|
+| DARK AI               | ChatBot            | [Open]() | ![Botpress](https://img.shields.io/badge/BOTPRESS-1A1F4A?style=for-the-badge&logo=botpress&logoColor=white) |
+
+### Agent Generated Projects
+
+- These projects leverage established AI platforms to highlight my imaginative side — exploring new visuals, UI styles, and design expression, focus on creative expression and experimental bots.
+- They highlight my ability to adapt agents effectively while maintaining a strong conceptual understanding.
 
 | ⚡ Projects           | 🧩 Type           | 🌍 Deployed Link                   | 🛠️ Tech Stack     |
 |-----------------------|--------------------|-------------------------------------|--------------------|
 | CodaAI                | ChatBot            | [Open](https://poe.com/CodaAi) | ![POE AI](https://img.shields.io/badge/POE%20AI-1A1F4A?style=for-the-badge&logo=poe&logoColor=white) |
-| DARK AI               | ChatBot            | [Open]() | ![Botpress](https://img.shields.io/badge/BOTPRESS-1A1F4A?style=for-the-badge&logo=botpress&logoColor=white) |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
