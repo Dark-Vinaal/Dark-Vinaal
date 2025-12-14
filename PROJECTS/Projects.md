@@ -29,7 +29,7 @@
 | Asphalt Velocity      | [Not yet published] | [Repo](https://github.com/Dark-Vinaal/Car-Zone.git) | `HTML` `CSS` `Bootstrap` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | Mobile SmartZ         | [View](https://dark-vinaal.github.io/E-commerce-site-bootstrap/) | [Repo](https://github.com/Dark-Vinaal/E-commerce-site-bootstrap) | `HTML` `CSS` `bootstrap` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | Calculator JavaScript | [View](https://dark-vinaal.github.io/Calculator-JS/)     | [Repo](https://github.com/Dark-Vinaal/Calculator-JS.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
-| Calculator Java       | [Not Published]     | [Repo](https://github.com/Dark-Vinaal/Calculator-Java.git) | `Java` `Java Swing Library` `JFrame` `GIT` `GitHub` `VS Code` |
+| Calculator Java       | [Only Backend]     | [Repo](https://github.com/Dark-Vinaal/Calculator-Java.git) | `Java` `Java Swing Library` `JFrame` `GIT` `GitHub` `VS Code` |
 | BioData Form          | [View](https://dark-vinaal.github.io/biodata-form/)       | [Repo](https://github.com/Dark-Vinaal/biodata-form.git)   | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code`|
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -44,7 +44,7 @@
 |-----------------------|--------------------|-------------------------------------|-------------------------------------|--------------------|
 | Nova AI               | ChatBot            | [Featured Soon] | [Repo] | `Python` |
 | JARVIS                | Voice Assistant    | [Featured Soon] | [Repo] | `Python` |
-| LocalChatBot          | RAG                | [Localhost Usage] | [Repo](https://github.com/Dark-Vinaal/RAG) | `Python` `Langchain` `Streamlit` `Huggingface` `Artificial Intelligence` `Machine Learning` `retrieval-augmented-generation` `FAISS` `Ollama` `LLM` `sentence-transformers` `semantic-search` `vector-database` |
+| LocalChatBot          | RAG                | [Localhost - Usage] | [Repo](https://github.com/Dark-Vinaal/RAG) | `Python` `Langchain` `Streamlit` `Huggingface` `Artificial Intelligence` `Machine Learning` `retrieval-augmented-generation` `FAISS` `Ollama` `LLM` `sentence-transformers` `semantic-search` `vector-database` |
 
 ### ⚙️ Tool-Based Projects
 
