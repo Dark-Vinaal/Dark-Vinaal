@@ -38,8 +38,8 @@
 
 | ⚡ Projects           | Type                   | 🛠️ Tech Stack     |
 |-----------------------|------------------------|-------------------------------------|
-| Premora               | E-Commerce Site        | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `Netlify` `VS Code` |
-| Dark Knight           | Website                | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `Netlify` `VS Code` |
+| Premora               | E-Commerce Site        | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
+| Dark Knight           | Website                | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
