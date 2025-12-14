@@ -16,6 +16,8 @@
 
 ## 🔥 FEATURED PROJECTS
 
+---
+
 ## 🌐 Websites 
 
 - All of these projects are fully designed and developed by me. They represent my skills, my approach to problem-solving, and my commitment to building clean, purposeful work.
@@ -38,7 +40,7 @@
 
 - These projects are fully coded and implemented by me, focusing on core concepts of artificial intelligence, machine learning, deep learning, and retrieval-augmented generation. They showcase my understanding of logic design, model integration, and real-world application of AI concepts.
 
-| ⚡ Projects           | Type              | 🌍 Deployed Link                   | 📦 Repository                       | 🛠️ Tech Stack     |
+| ⚡ Projects           | 🧩 Type           | 🌍 Deployed Link                   | 📦 Repository                       | 🛠️ Tech Stack     |
 |-----------------------|--------------------|-------------------------------------|-------------------------------------|--------------------|
 | Nova AI               | ChatBot            |[Featured Soon] | [Repo] | `Python` |
 | JARVIS                | Voice Assistant    |[Featured Soon] | [Repo] | `Python` |
@@ -47,7 +49,7 @@
 
 - These projects leverage established AI platforms and tools to explore practical use cases, workflow integration, and real-time deployment scenarios. They highlight my ability to adapt tools effectively while maintaining a strong conceptual understanding.
 
-| ⚡ Projects           | Type              | 🌍 Deployed Link                   | 🛠️ Tech Stack     |
+| ⚡ Projects           | 🧩 Type           | 🌍 Deployed Link                   | 🛠️ Tech Stack     |
 |-----------------------|--------------------|-------------------------------------|--------------------|
 | CodaAI                | ChatBot            | [Open](https://poe.com/CodaAi) | ![POE AI](https://img.shields.io/badge/POE%20AI-1A1F4A?style=for-the-badge&logo=poe&logoColor=white) |
 | DARK AI               | ChatBot            | [Open]() | ![Botpress](https://img.shields.io/badge/BOTPRESS-1A1F4A?style=for-the-badge&logo=botpress&logoColor=white) |
@@ -114,16 +116,16 @@
 
 - The following projects are currently under development and represent my next phase of learning and experimentation. They focus on modern frameworks, scalable architecture, and enhanced user experience, reflecting my continuous effort to grow with current technologies.
 
-| ⚡ Projects           | Type                   | 🛠️ Tech Stack     |
+| ⚡ Projects           | 🧩 Type               | 🛠️ Tech Stack                      |
 |-----------------------|------------------------|-------------------------------------|
 | Premora               | E-Commerce Site        | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
 | Dark Knight           | Website                | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
-| Flappy Bird           | Game | `Python` |
-| Mini Sudoku           | Game  | `Dart` `Flutter` `GIT` `GitHub` `VS Code` |
-| ChatNow               | Messenger | `Dart` `Flutter` `GIT` `GitHub` `VS Code` |
-| Instagram Clone | Clone App | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
-| Spotify Clone | Clone App | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
-| Swigy Clone | Clone App | `Dart` `Flutter` `GIT` `GitHub` `VS Code` |
+| Flappy Bird           | Game                   | `Python` |
+| Mini Sudoku           | Game                   | `Dart` `Flutter` `GIT` `GitHub` `VS Code` |
+| ChatNow               | Messenger              | `Dart` `Flutter` `GIT` `GitHub` `VS Code` |
+| Instagram Clone       | Clone App              | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
+| Spotify Clone         | Clone App              | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
+| Swiggy Clone          | Clone App              | `Dart` `Flutter` `GIT` `GitHub` `VS Code` |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
