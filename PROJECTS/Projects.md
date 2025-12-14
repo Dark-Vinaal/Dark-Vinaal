@@ -36,6 +36,8 @@
 
 #### Upcoming Projects
 
+- The following projects are currently under development and represent my next phase of learning and experimentation. They focus on modern frameworks, scalable architecture, and enhanced user experience, reflecting my continuous effort to grow with current technologies.
+
 | ⚡ Projects           | Type                   | 🛠️ Tech Stack     |
 |-----------------------|------------------------|-------------------------------------|
 | Premora               | E-Commerce Site        | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
@@ -45,14 +47,16 @@
 
 #### AI & ML/DL, RAG Projects
 
-- Own Coded AI ML/Dl, RAG Projects
+- Independently Developed Projects :
+  - These projects are fully coded and implemented by me, focusing on core concepts of artificial intelligence, machine learning, deep learning, and retrieval-augmented generation. They showcase my understanding of logic design, model integration, and real-world application of AI concepts.
 
 | ⚡ Projects           | Type              | 🌍 Deployed Link                   | 📦 Repository                       | 🛠️ Tech Stack     |
 |-----------------------|--------------------|-------------------------------------|-------------------------------------|--------------------|
 | Nova AI               | ChatBot            |[Featured Soon] | [Repo] | `Python` |
 | JARVIS                | Voice Assistant    |[Featured Soon] | [Repo] | `Python` |
 
-- Tool Based AI ML/Dl, RAG Projets
+- Tool-Based Projects
+  - These projects leverage established AI platforms and tools to explore practical use cases, workflow integration, and real-time deployment scenarios. They highlight my ability to adapt tools effectively while maintaining a strong conceptual understanding.
 
 | ⚡ Projects           | Type              | 🌍 Deployed Link                   | 🛠️ Tech Stack     |
 |-----------------------|--------------------|-------------------------------------|--------------------|
@@ -63,6 +67,8 @@
 
 #### Gaming Projects
 
+- These projects focus on logic building, interaction design, and real-time user input handling. They allowed me to experiment with game mechanics, event-driven programming, and performance optimization while keeping development engaging and creative.
+
 | ⚡ Projects           | 🌍 Deployed Link                   | 📦 Repository                      | 🛠️ Tech Stack      |
 |-----------------------|-------------------------------------|-------------------------------------|--------------------|
 | Rock-Paper-Scissor    | [Deployed Soon] | [Repo](https://github.com/Dark-Vinaal/Rock-Paper-Scissor) | `Python` `Random Module` `Git` `GitHub`  |
@@ -72,6 +78,8 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 #### Other Projects
+
+- This section includes focused utility-based projects developed to solve specific problems or explore unique ideas. Each project emphasizes simplicity, functionality, and practical implementation.
 
 | ⚡ Projects           | 📦 Repository                      | 🛠️ Tech Stack     |
 |-----------------------|-------------------------------------|--------------------|
@@ -95,6 +103,8 @@
 
 #### Cloning Projects
 
+- These projects were built to study and replicate real-world interfaces with precision. They helped me improve layout structuring, visual consistency, and attention to detail while understanding how widely used platforms design their user experiences.
+
 | 🔧 Projects           | 🌍 Deployed Link                   | 📦 Repository                      | 🛠️ Tech Stack      |
 |-----------------------|-------------------------------------|-------------------------------------|--------------------|
 | Facebook Login Page   | [Project Unpublished]     | [Repo](https://github.com/Tech-Vinaal/facebook-loginpage-clone.git) | `HTML` `CSS` `GIT` `GitHub` `GitHub Pages` `VS Code` |
@@ -104,7 +114,8 @@
 ### 🎨 Creative Projects (With AI Help)
 
 - These highlight my imaginative side — exploring new visuals, UI styles, and design expression.
-- These projects focus on creative expression and experimental design. They highlight my ability to explore ideas freely, try new visual styles, and bring a unique creative perspective into my work.
+- These projects focus on creative expression and experimental design.
+- They highlight my ability to explore ideas freely, try new visual styles, and bring a unique creative perspective into my work.
 
 | 🎨 Projects           | 🌍 Deployed Link                   | 📦 Repository                      | 🛠️ Tech Stack      | 🧰 Tools          |
 |-----------------------|-------------------------------------|-------------------------------------|--------------------|--------------------|
