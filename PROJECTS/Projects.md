@@ -8,7 +8,7 @@
 
 ### 🧩 Welcome to My Project Showcase
 
-- This space is a curated collection of everything I’ve built so far — from full-scale applications to experimental ideas, practice mini-projects, and creative explorations. Here, I document my growth as a developer, my evolving skills, and the thought process behind each creation. Every project represents a milestone in my journey: learning new technologies, refining problem-solving techniques, and pushing myself to design cleaner, smarter, and more meaningful solutions.
+- This space is a curated collection of everything I [Vinaal R](https://github.com/Dark-Vinaal) built so far — from full-scale applications to experimental ideas, practice mini-projects, and creative explorations. Here, I document my growth as a developer, my evolving skills, and the thought process behind each creation. Every project represents a milestone in my journey: learning new technologies, refining problem-solving techniques, and pushing myself to design cleaner, smarter, and more meaningful solutions.
 
 - Whether you’re here to explore my technical abilities, understand my workflow, or just browse through cool builds — this page captures the essence of who I am as a developer and what I love to create.
 
