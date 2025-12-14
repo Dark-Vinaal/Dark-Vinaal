@@ -32,17 +32,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🔜 Upcoming Projects
-
-- The following projects are currently under development and represent my next phase of learning and experimentation. They focus on modern frameworks, scalable architecture, and enhanced user experience, reflecting my continuous effort to grow with current technologies.
-
-| ⚡ Projects           | Type                   | 🛠️ Tech Stack     |
-|-----------------------|------------------------|-------------------------------------|
-| Premora               | E-Commerce Site        | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
-| Dark Knight           | Website                | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 ## 🤖 AI & ML/DL, RAG Projects
 
 ### 🧠 Independently Developed Projects :
@@ -61,7 +50,7 @@
 | ⚡ Projects           | Type              | 🌍 Deployed Link                   | 🛠️ Tech Stack     |
 |-----------------------|--------------------|-------------------------------------|--------------------|
 | CodaAI                | ChatBot            | [Open](https://poe.com/CodaAi) | ![POE AI](https://img.shields.io/badge/POE%20AI-1A1F4A?style=for-the-badge&logo=poe&logoColor=white) |
-| ChatGBP               | ChatBot            | [Open]() | ![Botpress](https://img.shields.io/badge/BOTPRESS-1A1F4A?style=for-the-badge&logo=botpress&logoColor=white) |
+| DARK AI               | ChatBot            | [Open]() | ![Botpress](https://img.shields.io/badge/BOTPRESS-1A1F4A?style=for-the-badge&logo=botpress&logoColor=white) |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -72,8 +61,6 @@
 | ⚡ Projects           | 🌍 Deployed Link                   | 📦 Repository                      | 🛠️ Tech Stack      |
 |-----------------------|-------------------------------------|-------------------------------------|--------------------|
 | Rock-Paper-Scissor    | [Deployed Soon] | [Repo](https://github.com/Dark-Vinaal/Rock-Paper-Scissor) | `Python` `Random Module` `Git` `GitHub`  |
-| Flappy Bird           | [Featured Soon] | [Repo] |  |
-| Mini Sudoku           | [Featured Soon] | [Repo]  | `Dart` `Flutter` |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -120,6 +107,21 @@
 | 🎨 Projects           | 🌍 Deployed Link                   | 📦 Repository                      | 🛠️ Tech Stack      | 🧰 Tools          |
 |-----------------------|-------------------------------------|-------------------------------------|--------------------|--------------------|
 | Portfolio             | [View](https://vinaalr.netlify.app/) | [Repo](https://github.com/Dark-Vinaal/vinaal_portfolio) |  `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `Netlify` | ![Antigravity](https://img.shields.io/badge/Antigravity-1A1F4A?style=for-the-badge&logo=google--assistant&logoColor=white) |
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+## 🔜 Upcoming Projects
+
+- The following projects are currently under development and represent my next phase of learning and experimentation. They focus on modern frameworks, scalable architecture, and enhanced user experience, reflecting my continuous effort to grow with current technologies.
+
+| ⚡ Projects           | Type                   | 🛠️ Tech Stack     |
+|-----------------------|------------------------|-------------------------------------|
+| Premora               | E-Commerce Site        | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
+| Dark Knight           | Website                | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
+| Flappy Bird           | Game | `Python` |
+| Mini Sudoku           | Game  | `Dart` `Flutter` |
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
