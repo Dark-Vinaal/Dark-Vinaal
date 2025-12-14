@@ -16,7 +16,7 @@
 
 ## 🔥 FEATURED PROJECTS
 
-### 🌐 Websites 
+## 🌐 Websites 
 
 - All of these projects are fully designed and developed by me. They represent my skills, my approach to problem-solving, and my commitment to building clean, purposeful work.
 - Each project below reflects my skill growth, design philosophy, problem-solving mindset, and dedication to creating clean, functional, and intentional work.
@@ -32,7 +32,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-### 🔜 Upcoming Projects
+## 🔜 Upcoming Projects
 
 - The following projects are currently under development and represent my next phase of learning and experimentation. They focus on modern frameworks, scalable architecture, and enhanced user experience, reflecting my continuous effort to grow with current technologies.
 
@@ -43,18 +43,20 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-### 🤖 AI & ML/DL, RAG Projects
+## 🤖 AI & ML/DL, RAG Projects
 
-- Independently Developed Projects :
-  - These projects are fully coded and implemented by me, focusing on core concepts of artificial intelligence, machine learning, deep learning, and retrieval-augmented generation. They showcase my understanding of logic design, model integration, and real-world application of AI concepts.
+### 🧠 Independently Developed Projects :
+
+- These projects are fully coded and implemented by me, focusing on core concepts of artificial intelligence, machine learning, deep learning, and retrieval-augmented generation. They showcase my understanding of logic design, model integration, and real-world application of AI concepts.
 
 | ⚡ Projects           | Type              | 🌍 Deployed Link                   | 📦 Repository                       | 🛠️ Tech Stack     |
 |-----------------------|--------------------|-------------------------------------|-------------------------------------|--------------------|
 | Nova AI               | ChatBot            |[Featured Soon] | [Repo] | `Python` |
 | JARVIS                | Voice Assistant    |[Featured Soon] | [Repo] | `Python` |
 
-- Tool-Based Projects
-  - These projects leverage established AI platforms and tools to explore practical use cases, workflow integration, and real-time deployment scenarios. They highlight my ability to adapt tools effectively while maintaining a strong conceptual understanding.
+### ⚙️ Tool-Based Projects
+
+- These projects leverage established AI platforms and tools to explore practical use cases, workflow integration, and real-time deployment scenarios. They highlight my ability to adapt tools effectively while maintaining a strong conceptual understanding.
 
 | ⚡ Projects           | Type              | 🌍 Deployed Link                   | 🛠️ Tech Stack     |
 |-----------------------|--------------------|-------------------------------------|--------------------|
@@ -63,7 +65,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-### 🎮 Gaming Projects
+## 🎮 Gaming Projects
 
 - These projects focus on logic building, interaction design, and real-time user input handling. They allowed me to experiment with game mechanics, event-driven programming, and performance optimization while keeping development engaging and creative.
 
@@ -75,7 +77,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-### 🔧 Other Projects
+## 🔧 Other Projects
 
 - This section includes focused utility-based projects developed to solve specific problems or explore unique ideas. Each project emphasizes simplicity, functionality, and practical implementation.
 
@@ -85,7 +87,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-### 🎯 Skill-Building Mini Projects
+## 🎯 Skill-Building Mini Projects
 
 - These are small projects I built to strengthen my skills and practice applying what I learn. Each one helped me refine my techniques and deepen my understanding through hands-on work.
 - Small but impactful — each one sharpened my fundamentals and boosted my hands-on experience.
@@ -99,7 +101,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-#### Cloning Projects
+## 🔁 Cloning Projects
 
 - These projects were built to study and replicate real-world interfaces with precision. They helped me improve layout structuring, visual consistency, and attention to detail while understanding how widely used platforms design their user experiences.
 
