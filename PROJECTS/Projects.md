@@ -28,7 +28,7 @@
 | Techy Zone            | [View](https://techyzone.netlify.app/)     | [Pvt] | `HTML` `CSS` `GIT` `GitHub` `Netlify` `VS Code` |
 | Asphalt Velocity V1   | [Updated to V2] | [Repo](https://github.com/Dark-Vinaal/Car-Zone.git) | `HTML` `CSS` `Bootstrap` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | Asphalt Velocity V2   | [View](https://dark-vinaal.github.io/Asphalt_Velocity/) | [Repo](https://github.com/Dark-Vinaal/Asphalt_Velocity) | `React.js` `Tailwind` `JavaScript` `HTML` `CSS` `GIT` `GitHub` `GitHub Pages` `Github Branches` `VS Code` |
-| Mobile SmartZ         | [View](https://dark-vinaal.github.io/Mobile_SmartZ/) | [Repo](https://github.com/Dark-Vinaal/E-commerce-site-bootstrap) | `HTML` `CSS` `bootstrap` `GIT` `GitHub` `GitHub Pages` `VS Code` |
+| Mobile SmartZ         | [View](https://dark-vinaal.github.io/Mobile-SmartZ/) | [Repo](https://github.com/Dark-Vinaal/E-commerce-site-bootstrap) | `HTML` `CSS` `bootstrap` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | Calculator JavaScript | [View](https://dark-vinaal.github.io/Calculator-JS/)     | [Repo](https://github.com/Dark-Vinaal/Calculator-JS.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | Calculator Java       | [Only Backend]     | [Repo](https://github.com/Dark-Vinaal/Calculator-Java.git) | `Java` `Java Swing Library` `JFrame` `GIT` `GitHub` `VS Code` |
 | BioData Form          | [View](https://dark-vinaal.github.io/biodata-form/)       | [Repo](https://github.com/Dark-Vinaal/biodata-form.git)   | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code`|
