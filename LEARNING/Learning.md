@@ -9,7 +9,7 @@
 | [Python](https://github.com/Dark-Vinaal/Python-Learning) | Internship |
 | [React](https://github.com/Dark-Vinaal/React.js-Learning) | Course |
 | [DSA](https://github.com/Dark-Vinaal/DSA-Learning) | Course |
-| [Flask]() | Course |
+| [Flask] | Course |
 
 ---
 
@@ -21,11 +21,11 @@
 
 |                          Language                        |    Type    |
 |----------------------------------------------------------|------------|
-| [Python() | Course |
+| [Python] | Course |
 | [Java](https://github.com/Dark-Vinaal/Java-Coding) | Cosrse |
-| [C]() | Course |
-| [C++]() | Course |
-| [DSA Using C++]() | Course |
-| [Visual Basic]() | Course |
+| [C] | Course |
+| [C++] | Course |
+| [DSA Using C++] | Course |
+| [Visual Basic] | Course |
 
 ---
