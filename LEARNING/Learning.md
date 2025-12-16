@@ -25,7 +25,7 @@
 | [Java](https://github.com/Dark-Vinaal/Java-Coding) | Cosrse |
 | [C] | Course |
 | [C++] | Course |
-| [DSA Using C++] | Course |
+| [DSA Using C++](https://github.com/Dark-Vinaal/DSA-C-plusplus_Codings) | Course |
 | [Visual Basic] | Course |
 
 ---
