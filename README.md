@@ -185,9 +185,7 @@ Hey Guys! To View and Explore all of my Complete Projects Collection, Click here
 
 <br>
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&color=00FFFF&center=true&vCenter=true&width=800&lines=The+woods+are+lovely,+dark+and+deep,;But+I+have+promises+to+keep,;And+miles+to+go+before+I+sleep,;And+miles+to+go+before+I+sleep." />
-   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </p>
 
 <p align="right">
@@ -299,11 +297,10 @@ Hey Guys! To View and Explore all of my Complete Projects Collection, Click here
 
 <p align="center">
   <b style="letter-spacing: 10px; font-size: 20px;">V I S I T O R S</b><br>
-  <img src="https://count.getloli.com/get/@Dark-Vinaal.github.readme" alt="Visitor Count">
+  <img src="https://count.getloli.com/get/@Dark-Vinaal.github.readme" alt="Visitor Count"><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </p>
 
-> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
->
 > "One line of code a day builds the future, line by line."    
 
 > "One line of code a day keeps the bugs away."
@@ -315,9 +312,8 @@ Hey Guys! To View and Explore all of my Complete Projects Collection, Click here
 > "One line of code a day keeps procrastination away."
 
 > "One line of code a day is the seed of mastery."    
-> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
- 
- ---
+
+---
 
 > <img src="https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/life_balance.gif" alt="LifeBalance" width="180" style="vertical-align: middle; display: inline-block;" />
 
@@ -332,8 +328,8 @@ Hey Guys! To View and Explore all of my Complete Projects Collection, Click here
   <b> 💻 Made By <a href="https://github.com/Dark-Vinaal">Dark-Vinaal</a> | © All Rights Reserved 2025 <b> <br>
   <b> | Made with ❤️ | Built with passion ⚡ | Crafted for innovation 💻 | <b> 
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
- 
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"><br>
+
   <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=185&height=20&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+Vinaal" alt="build with love svg" />
 
   <br> <br>
