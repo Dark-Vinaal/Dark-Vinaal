@@ -134,7 +134,7 @@
 | ⚡ Projects           | 🧩 Type               | 🛠️ Tech Stack                      |
 |-----------------------|------------------------|-------------------------------------|
 | Premora               | E-Commerce Site        | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
-| Dark Aura             | Website                | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
+| I'm Batman            | Website                | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
 | Flappy Bird           | Game                   | `Python` |
 | Mini Sudoku           | Game                   | `Dart` `Flutter` `GIT` `GitHub` `VS Code` |
 | ChatNow               | Messenger              | `Dart` `Flutter` `GIT` `GitHub` `VS Code` |
