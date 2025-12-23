@@ -215,7 +215,7 @@ Hey Guys! To View and Explore all of my Complete Projects Collection, Click here
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
 </div><br>
 
-![](https://nirzak-stats.vercel.app/api/top-langs/?username=Dark-Vinaal&layout=compact&theme=ambient_gradient&hide_border=false)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Vinaal&theme=tokyonight)    ![](https://nirzak-stats.vercel.app/api/top-langs/?username=Dark-Vinaal&layout=compact&theme=ambient_gradient&hide_border=false)    
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dark-Vinaal&theme=github_dark)    ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dark-Vinaal&theme=github_dark)
 
