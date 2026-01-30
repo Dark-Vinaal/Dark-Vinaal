@@ -71,7 +71,7 @@
 </details>
 
 <details>
-  <summary><b>Carrear Goal</b></summary>
+  <summary><b>Career Goal</b></summary>
 
   - FullStack Web Developer
   - Software Developer
