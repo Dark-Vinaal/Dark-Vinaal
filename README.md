@@ -66,7 +66,7 @@
   - Designing  
   - Editing  
   - Gaming  
-  - Watching Movies,Web Series, Anime  
+  - Watching Movies, Web Series, Anime  
 
 </details>
 
