@@ -130,6 +130,25 @@
 </a>
 </div> <br>
 
+## My Devices 
+
+| **FEATURE** | **Laptop 1** `Gaming` / `Editing` | **Laptop 2** `Coding` / `Learning` |
+| :--- | :--- | :--- |
+| **Brand** | **![ASUS](https://img.shields.io/badge/Asus-00539B?style=for-the-badge&logo=asus&logoColor=white)** | **![ACER](https://img.shields.io/badge/Acer-83B81A?style=for-the-badge&logo=acer&logoColor=white)** |
+| **OS** | ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows-11&logoColor=white) | ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) |
+| **Processor** | ![AMD](https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white) | ![Intel](https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white) |
+| **Graphics** | ![NVIDIA](https://img.shields.io/badge/nVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) / ![Radeon](https://img.shields.io/badge/Radeon-ED1C24?style=for-the-badge&logo=amd&logoColor=white) | ![Intel](https://img.shields.io/badge/Intel_UHD-0071C5?style=for-the-badge&logo=intel&logoColor=white) | 
+| **Model** | TUF Gaming A15 | One Z14-55N |
+| **CPU** | Ryzen 5 4600H (6C/12T) | Core i3-N305 (8C/8T) |
+| **GPU** | `dGPU` GeForce GTX 1650 / `iGPU` Vega 6 | `iGPU` UHD Graphics @ 1.25 GHz |
+| **RAM** | 16 GB DDR4 | 8 GB |
+| **Storage** | 512 GB NVMe SSD | 256 GB |
+| **Display** | 15.6" FHD (1920x1080) 144Hz | 14" (1366x768) BOE Panel |
+| **Desktop Env** | Windows Shell | GNOME 49.4 (Wayland) |
+| **Terminal** | PowerShell / CMD | Ghostty 1.2.3 (JetBrainsMono NF) |
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
