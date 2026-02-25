@@ -1,4 +1,4 @@
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+![](https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/multicolor-line.gif)
 
 ![Header](https://github.com/Dark-Vinaal/Dark-Vinaal/raw/main/Assets/github-header-banner.png)
 
