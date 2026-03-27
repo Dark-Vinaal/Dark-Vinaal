@@ -33,8 +33,10 @@
 | Asphalt Velocity V1   | [Updated to V2] | [Repo](https://github.com/Dark-Vinaal/Car-Zone.git) | `HTML` `CSS` `Bootstrap` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | Asphalt Velocity V2   | [View](https://dark-vinaal.github.io/Asphalt_Velocity/) | [Repo](https://github.com/Dark-Vinaal/Asphalt_Velocity) | `React.js` `Tailwind` `JavaScript` `HTML` `CSS` `GIT` `GitHub` `GitHub Pages` `Github Branches` `VS Code` |
 | Mobile SmartZ         | [View](https://dark-vinaal.github.io/Mobile-SmartZ/) | [Repo](https://github.com/Dark-Vinaal/E-commerce-site-bootstrap) | `HTML` `CSS` `bootstrap` `GIT` `GitHub` `GitHub Pages` `VS Code` |
+| I'm Batman            | [View]() | [Repo]() | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
 | Calculator JavaScript | [View](https://dark-vinaal.github.io/Calculator-JS/)     | [Repo](https://github.com/Dark-Vinaal/Calculator-JS.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
-| Calculator Java       | [Only Backend]     | [Repo](https://github.com/Dark-Vinaal/Calculator-Java.git) | `Java` `Java Swing Library` `JFrame` `GIT` `GitHub` `VS Code` |
+| Calculator Java       | [Not Hosted]     | [Repo](https://github.com/Dark-Vinaal/Calculator-Java.git) | `Java` `Java Swing Library` `JFrame` `GIT` `GitHub` `VS Code` |
+| Calculator Python     | [Not Hosted]     | [Repo](https://github.com/Dark-Vinaal/Calculator-PY.git) | `Python` `Tkinter` `CustomTkinter` `GIT` `GitHub` `VS Code` |
 | BioData Form          | [View](https://dark-vinaal.github.io/biodata-form/)       | [Repo](https://github.com/Dark-Vinaal/biodata-form.git)   | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code`|
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -47,6 +49,7 @@
 
 | ⚡ Projects           | 🧩 Type           | 🌍 Deployed Link                   | 📦 Repository                       | 🛠️ Tech Stack     |
 |-----------------------|--------------------|-------------------------------------|-------------------------------------|--------------------|
+| Dark AI               | Chatbot            | [] | [Repo() | `React.js` `Node.js` `TypeScript` `Tailwind` `LLM` `APIs` |
 | Nova AI               | ChatBot            | [Featured Soon] | [Repo] | `Python` `React.js` `TypeScript` `Tailwind` `LLM` `APIs` |
 | JARVIS                | Voice Assistant    | [Featured Soon] | [Repo] | `Python` `Eleven Labs` |
 | LocalChatBot          | RAG                | [Localhost - Usage] | [Repo](https://github.com/Dark-Vinaal/RAG) | `Python` `Langchain` `Streamlit` `Huggingface` `Artificial Intelligence` `Machine Learning` `retrieval-augmented-generation` `FAISS` `Ollama` `LLM` `sentence-transformers` `semantic-search` `vector-database` |
@@ -77,6 +80,7 @@
 
 | ⚡ Projects           | 🌍 Deployed Link                   | 📦 Repository                      | 🛠️ Tech Stack      |
 |-----------------------|-------------------------------------|-------------------------------------|--------------------|
+| GamesHub              | []() | [Repo]() | `React.js` `Node.js` `TypeScript` `Tailwind` `LLM` `APIs` |
 | Rock-Paper-Scissor    | [Deployed Soon] | [Repo](https://github.com/Dark-Vinaal/Rock-Paper-Scissor) | `Python` `Random Module` `Git` `GitHub`  |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -134,7 +138,6 @@
 | ⚡ Projects           | 🧩 Type               | 🛠️ Tech Stack                      |
 |-----------------------|------------------------|-------------------------------------|
 | Premora               | E-Commerce Site        | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
-| I'm Batman            | Website                | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
 | Flappy Bird           | Game                   | `Python` |
 | Mini Sudoku           | Game                   | `Dart` `Flutter` `GIT` `GitHub` `VS Code` |
 | ChatNow               | Messenger              | `Dart` `Flutter` `GIT` `GitHub` `VS Code` |
