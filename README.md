@@ -350,7 +350,7 @@ Hey Guys! To View and Explore all of my Complete Projects Collection, Click here
 
 <div align="center">
   
-  <b> 💻 Made By <a href="https://github.com/Dark-Vinaal">Dark-Vinaal</a> | © All Rights Reserved 2025 </b> <br>
+  <b> 💻 Made By <a href="https://github.com/Dark-Vinaal">Dark-Vinaal</a> | © All Rights Reserved </b> <br>
   <i> ❤️ Made with • Built with ⚡ passion • Crafted for innovation 💻 </i>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"><br>
