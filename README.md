@@ -208,7 +208,12 @@
 
 Hey Guys! To View and Explore all of my Complete Projects Collection, Click here!!! [View](https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/PROJECTS/Projects.md) 
 
-<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+
+## [✨ My Motivation]() 
+
+> The Road Ahead is Driven by the pursuit of continuous growth and a commitment to long-term goals.
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&color=00FFFF&center=true&vCenter=true&width=800&lines=The+woods+are+lovely,+dark+and+deep,;But+I+have+promises+to+keep,;And+miles+to+go+before+I+sleep,;And+miles+to+go+before+I+sleep." />
 </p>
@@ -217,7 +222,7 @@ Hey Guys! To View and Explore all of my Complete Projects Collection, Click here
   — <b>Robert Frost</b>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
 ## [📊 GitHub Stats ](https://github.com/Dark-Vinaal#-github-stats-)
 
