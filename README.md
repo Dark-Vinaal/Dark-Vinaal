@@ -210,7 +210,7 @@ Hey Guys! To View and Explore all of my Complete Projects Collection, Click here
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
-## [✨ My Motivation]() 
+## [✨ My Motivation](https://github.com/Dark-Vinaal#-my-motivation) 
 
 > The Road Ahead is Driven by the pursuit of continuous growth and a commitment to long-term goals.
 
