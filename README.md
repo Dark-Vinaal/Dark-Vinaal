@@ -355,7 +355,7 @@ Hey Guys! To View and Explore all of my Complete Projects Collection, Click here
 <br>
 
 ```mermaid
-graph TD
+graph LR
     Core[<b>One line of code a day...</b>]
     
     Core --> Q1[builds the future, line by line]
@@ -401,8 +401,8 @@ graph TD
       </a>
     </td>
     <td>
-      <a href="https://x.com/__Vinaal__" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+      <a href="INSERT_YOUR_LINKTREE_URL_HERE" target="_blank" style="text-decoration: none;">
+        <span style="font-size: 25px;">🔗</span>
       </a>
     </td>
     <td>
