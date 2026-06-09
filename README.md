@@ -344,6 +344,7 @@ Hey Guys! To View and Explore all of my Complete Projects Collection, Click here
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </div>
+<br>
 
 ## [✍️ Random Dev Quote](https://github.com/Dark-Vinaal#%EF%B8%8F-random-dev-quote)
 
@@ -351,6 +352,7 @@ Hey Guys! To View and Explore all of my Complete Projects Collection, Click here
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" /> 
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </div>
+<br>
 
 ```mermaid
 graph TD
@@ -366,15 +368,14 @@ graph TD
     style Core fill:#333,stroke:#000,stroke-width:4px,color:#fff
 ```
 
----
-
-> <img src="https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/life_balance.gif" alt="LifeBalance" width="180" style="vertical-align: middle; display: inline-block;" />
-
-<div align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" style="float: right; vertical-align: middle; display: inline-block;" /> 
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">    <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"> 
+> <img src="https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/life_balance.gif" alt="LifeBalance" width="180" style="vertical-align: middle; display: inline-block;" />    <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"> 
+
+--- 
 
 <div align="center">
   
