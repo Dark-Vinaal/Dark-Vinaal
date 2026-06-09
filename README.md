@@ -60,21 +60,38 @@
 - Aiming to build a Responsive web design.
 
 <details>
-  <summary><b>Hobbies</b></summary>
-  
-  - Coding  
-  - Designing  
-  - Editing  
-  - Gaming  
-  - Watching Movies, Web Series, Anime  
+<summary><b> My Hobbies </b></summary>
+
+```mermaid
+mindmap
+  root((<b>HOBBIES</b>))
+    (Coding 💻)
+    (Designing 🎨)
+    (Editing ✂️)
+    (Gaming 🎮)
+    Watching 📺
+      Movies
+      Web Series
+      Anime
+```
 
 </details>
 
 <details>
-  <summary><b>Career Goal</b></summary>
+<summary><b> Career Goals </b></summary>
 
-  - FullStack Web Developer
-  - Software Developer
+```mermaid
+graph TD
+    Goal((<b>CAREER GOALS</b>))
+    
+    Goal --> FS[FullStack Web Developer]
+    Goal --> SD[Software Developer]
+    Goal --> AI[AI and ML Engineer]
+    Goal --> AIFS[AI-Integrated FS Dev]
+
+    %% Styling for a professional look
+    style Goal fill:#333,stroke:#000,stroke-width:2px,color:#fff
+```
 
 </details>
 
@@ -210,20 +227,6 @@ Hey Guys! To View and Explore all of my Complete Projects Collection, Click here
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
-## [✨ My Motivation](https://github.com/Dark-Vinaal#-my-motivation) 
-
-> The Road Ahead is Driven by the pursuit of continuous growth and a commitment to long-term goals.
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&color=00FFFF&center=true&vCenter=true&width=800&lines=The+woods+are+lovely,+dark+and+deep,;But+I+have+promises+to+keep,;And+miles+to+go+before+I+sleep,;And+miles+to+go+before+I+sleep." />
-</p>
-
-<p align="right">
-  — <b>Robert Frost</b>
-</p>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
-
 ## [📊 GitHub Stats ](https://github.com/Dark-Vinaal#-github-stats-)
 
 ![](https://nirzak-stats.vercel.app/api?username=Dark-Vinaal&theme=ambient_gradient&hide_border=false)     ![](https://github-readme-streak-stats.herokuapp.com/?user=Dark-Vinaal&theme=ayu-mirage&hide_border=false)
@@ -316,10 +319,6 @@ Hey Guys! To View and Explore all of my Complete Projects Collection, Click here
 
 ![](https://github-profile-trophy.vercel.app/?username=Dark-Vinaal&theme=radical&no-frame=false&no-bg=true&margin-w=4&cache=1)
 
-## [✍️ Random Dev Quote](https://github.com/Dark-Vinaal#%EF%B8%8F-random-dev-quote)
- 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" /> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" />
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <img width="1920" height="1080" alt="combine" src="https://github.com/user-attachments/assets/ddac5c09-88e9-488f-a901-ce48b4cc24c4" />
@@ -330,17 +329,42 @@ Hey Guys! To View and Explore all of my Complete Projects Collection, Click here
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </p>
 
-> "One line of code a day builds the future, line by line."    
+## [✨ My Motivation](https://github.com/Dark-Vinaal#-my-motivation) 
 
-> "One line of code a day keeps the bugs away."
+> The Road Ahead is Driven by the pursuit of continuous growth and a commitment to long-term goals.
 
-> "One line of code a day is still progress."
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=24&color=00FFFF&center=true&vCenter=true&width=800&lines=The+woods+are+lovely,+dark+and+deep,;But+I+have+promises+to+keep,;And+miles+to+go+before+I+sleep,;And+miles+to+go+before+I+sleep." />
+</p>
 
-> "One line of code a day turns ideas into reality."
+<p align="right">
+  — <b>Robert Frost</b>
+</p>
 
-> "One line of code a day keeps procrastination away."
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+</div>
 
-> "One line of code a day is the seed of mastery."    
+## [✍️ Random Dev Quote](https://github.com/Dark-Vinaal#%EF%B8%8F-random-dev-quote)
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" /> 
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+</div>
+
+```mermaid
+graph TD
+    Core[<b>One line of code a day...</b>]
+    
+    Core --> Q1[builds the future, line by line]
+    Core --> Q2[keeps the bugs away]
+    Core --> Q3[is still progress]
+    Core --> Q4[turns ideas into reality]
+    Core --> Q5[keeps procrastination away]
+    Core --> Q6[is the seed of mastery]
+
+    style Core fill:#333,stroke:#000,stroke-width:4px,color:#fff
+```
 
 ---
 
