@@ -130,6 +130,8 @@
 </a>
 </div> <br>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ## My Devices 
 
 | **FEATURE** | **Laptop 1** `Gaming` / `Editing` | **Laptop 2** `Coding` / `Learning` |
@@ -146,8 +148,6 @@
 | **Display** | 15.6" FHD (1920x1080) 144Hz | 14" (1366x768) BOE Panel |
 | **Desktop Env** | Windows Shell | GNOME 49.4 (Wayland) |
 | **Terminal** | PowerShell / CMD | Ghostty 1.2.3 (JetBrainsMono NF) |
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
