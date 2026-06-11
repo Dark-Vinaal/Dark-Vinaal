@@ -85,13 +85,14 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🔧 Other Projects
+## 🔧 Tools Projects
 
 - This section includes focused utility-based projects developed to solve specific problems or explore unique ideas. Each project emphasizes simplicity, functionality, and practical implementation.
 
-| ⚡ Projects           | 📦 Repository                      | 🛠️ Tech Stack     |
-|-----------------------|-------------------------------------|--------------------|
-| Color Picker          | [Repo](https://github.com/Dark-Vinaal/Color-Picker) | `CSS` `JavaScript` `JSON` `Chrome Extension` `Git` `GitHub` |
+| ⚡ Projects           | 📦 Repository                       | ⚙️ Usage           | 🛠️ Tech Stack      |
+|-----------------------|-------------------------------------|--------------------|--------------------|
+| Dark Fetch            | [Repo](https://github.com/Dark-Vinaal/Dark_Fetch)   | **Terminal Sys Info Fetch** | `Python` `rich` `psutil` `GPUtil` |
+| Color Picker          | [Repo](https://github.com/Dark-Vinaal/Color-Picker) | **Chrome Extenson for color picking** | `CSS` `JavaScript` `JSON` |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
