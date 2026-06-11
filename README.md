@@ -69,7 +69,7 @@ mindmap
     (Designing 🎨)
     (Editing ✂️)
     (Gaming 🎮)
-    Watching 📺
+    Entertainment 📺
       Movies
       Web Series
       Anime
