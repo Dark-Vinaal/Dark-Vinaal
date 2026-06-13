@@ -191,6 +191,8 @@ graph TD
 | **Toolkits & Environments** | ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![CPython](https://img.shields.io/badge/CPython-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JDK](https://img.shields.io/badge/JDK-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white) ![JVM](https://img.shields.io/badge/JVM-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JRE](https://img.shields.io/badge/JRE-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MinGW](https://img.shields.io/badge/MinGW-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
 | **Concepts & Topics** | ![Coding](https://img.shields.io/badge/Coding-1E90FF?style=for-the-badge&logo=code&logoColor=white) ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white) ![Operating System](https://img.shields.io/badge/Operating%20System-555555?style=for-the-badge&logo=linux&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-003545?style=for-the-badge&logo=postgresql&logoColor=white) ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-FF1493?style=for-the-badge&logo=git&logoColor=white) ![Web Design](https://img.shields.io/badge/Web%20Design-C64B7A?style=for-the-badge&logo=dribbble&logoColor=white) ![Computer Networking](https://img.shields.io/badge/Computer%20Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white) ![Computer Graphics](https://img.shields.io/badge/Computer%20Graphics-8A2BE2?style=for-the-badge&logo=blender&logoColor=white) |
 
+<div align="center"> <img src="https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/blueline.svg"> </div>
+
 ## [🧠 Tools & Softwares, Concepts I'm Familiar With](https://github.com/Dark-Vinaal#-tools--softwares-im-familiar-with--)  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
 | **Category** | **Stacks** |
@@ -203,6 +205,8 @@ graph TD
 | **Browsers** | ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) ![Comet](https://img.shields.io/badge/Comet-7159c1?style=for-the-badge&logo=Comet&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white) ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)	![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white) ![DuckDuckGo](https://img.shields.io/badge/duckduckgo-de5833?style=for-the-badge&logo=duckduckgo&logoColor=white) |
 | **Competitive Coding** | ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black) ![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white) ![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white) ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white) |
 | **Learning Platforms** | ![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Google Learning](https://img.shields.io/badge/Google%20Learning-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white) ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-%230A0A23.svg?style=for-the-badge&logo=freecodecamp&logoColor=white) ![Simplilearn](https://img.shields.io/badge/Simplilearn-%2300599C.svg?style=for-the-badge&logo=skillshare&logoColor=white) ![Great Learning](https://img.shields.io/badge/Great%20Learning-%23007ACC.svg?style=for-the-badge&logo=googleclassroom&logoColor=white) ![GUVI](https://img.shields.io/badge/GUVI-%2320C997.svg?style=for-the-badge&logo=python&logoColor=white) ![IBM SkillsBuild](https://img.shields.io/badge/IBM%20SkillsBuild-%230052CC.svg?style=for-the-badge&logo=ibm&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-%23A435F0.svg?style=for-the-badge&logo=udemy&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-%232D8CFF.svg?style=for-the-badge&logo=coursera&logoColor=white) |
+
+<div align="center"> <img src="https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/red-line.svg"> </div>
 
 ## [🎯 Learning Progress Overview](https://github.com/Dark-Vinaal#-learning-progress-overview-) <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
@@ -236,6 +240,9 @@ graph TD
     <img src="https://img.shields.io/badge/ACCESS_PROJECT_SYSTEM-0A0A0A?style=for-the-badge&logo=github&logoColor=00F7FF" />
   </a>
   <br>
+  
+  ![Line](https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/blueline.svg) 
+  
   <h3>⚡ Explore My Complete Projects Collection ⚡</h3> 
   <p>AI • Full Stack • Creative Coding • Experimental Builds</p> 
 
@@ -359,17 +366,16 @@ graph TD
   — <b>Robert Frost</b>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
-</div>
+![Line](https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/blueline.svg) 
 <br>
 
 ## [✍️ Random Dev Quote](https://github.com/Dark-Vinaal#%EF%B8%8F-random-dev-quote)
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" /> 
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </div>
+
+![Line](https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/blueline.svg) 
 <br>
 
 ```mermaid
@@ -387,13 +393,11 @@ graph LR
 ```
 
 <br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
-</div>
+<div align="center"> <img src="https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/red-line.svg"> </div>
 
 > <img src="https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/life_balance.gif" alt="LifeBalance" width="180" style="vertical-align: middle; display: inline-block;" />    <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"> 
 
---- 
+<div align="center"> <img src="https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/red-line.svg"> </div>
 
 <div align="center">
   
