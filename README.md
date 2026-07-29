@@ -163,7 +163,7 @@ graph TD
 | **RAM** | 16 GB DDR4 | 8 GB |
 | **Storage** | 512 GB NVMe SSD | 256 GB |
 | **Display** | 15.6" FHD (1920x1080) 144Hz | 14" (1366x768) BOE Panel |
-| **Desktop Env** | Windows Shell | GNOME 49.4 (Wayland) |
+| **Desktop Env** | Windows Shell | GNOME 49.4 `Wayland` / Hyprland `Uswm` + `Caelestia Shell` |
 | **Terminal** | PowerShell / CMD | Ghostty 1.2.3 (JetBrainsMono NF) |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
