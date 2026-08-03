@@ -28,7 +28,7 @@
 
 ---
 
-## 🌐 Websites 
+## 🌐 Websites / Projects
 
 - All of these projects are fully designed and developed by me. They represent my skills, my approach to problem-solving, and my commitment to building clean, purposeful work.
 - Each project below reflects my skill growth, design philosophy, problem-solving mindset, and dedication to creating clean, functional, and intentional work.
@@ -46,6 +46,7 @@
 | Calculator JavaScript | [View](https://dark-vinaal.github.io/Calculator-JS/)     | [Repo](https://github.com/Dark-Vinaal/Calculator-JS.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | Calculator Java       | [Not Hosted]     | [Repo](https://github.com/Dark-Vinaal/Calculator-Java.git) | `Java` `Java Swing Library` `JFrame` `GIT` `GitHub` `VS Code` |
 | Calculator Python     | [Not Hosted]     | [Repo](https://github.com/Dark-Vinaal/Calculator-PY.git) | `Python` `Tkinter` `CustomTkinter` `GIT` `GitHub` `VS Code` |
+| Data Profile          | [Not Hosted]     | [Repo](https://github.com/Dark-Vinaal/Data-Profile.git) | `Express.js` `JavaScript` `HTML` `CSS` | 
 | BioData Form          | [View](https://dark-vinaal.github.io/biodata-form/)       | [Repo](https://github.com/Dark-Vinaal/biodata-form.git)   | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code`|
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
