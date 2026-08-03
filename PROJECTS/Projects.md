@@ -14,6 +14,12 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+## Portfolio 
+
+| 🎨 Projects           | 🌍 Deployed Link                    | 📦 Repository                       | 🛠️ Tech Stack      |
+|-----------------------|-------------------------------------|-------------------------------------|--------------------|
+| Portfolio             | [View](https://vinaalr.netlify.app/) | [Repo](https://github.com/Dark-Vinaal/vinaal_portfolio) |  `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `Netlify` |
+
 ## 🔥 FEATURED PROJECTS
 
 <div align=center>
@@ -29,11 +35,14 @@
 
 | ⚡ Projects           | 🌍 Deployed Link                   | 📦 Repository                       | 🛠️ Tech Stack     |
 |-----------------------|-------------------------------------|-------------------------------------|--------------------|
-| Techy Zone            | [View](https://techyzone.netlify.app/)     | [Pvt] | `HTML` `CSS` `GIT` `GitHub` `Netlify` `VS Code` |
+| I'm Batman            | [View](https://theproject-batman.vercel.app/) | [Repo]() | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
 | Asphalt Velocity V1   | [Updated to V2] | [Repo](https://github.com/Dark-Vinaal/Car-Zone.git) | `HTML` `CSS` `Bootstrap` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | Asphalt Velocity V2   | [View](https://dark-vinaal.github.io/Asphalt_Velocity/) | [Repo](https://github.com/Dark-Vinaal/Asphalt_Velocity) | `React.js` `Tailwind` `JavaScript` `HTML` `CSS` `GIT` `GitHub` `GitHub Pages` `Github Branches` `VS Code` |
 | Mobile SmartZ         | [View](https://dark-vinaal.github.io/Mobile-SmartZ/) | [Repo](https://github.com/Dark-Vinaal/E-commerce-site-bootstrap) | `HTML` `CSS` `bootstrap` `GIT` `GitHub` `GitHub Pages` `VS Code` |
-| I'm Batman            | [View]() | [Repo]() | `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `VS Code` |
+| AlgoVerse             | [View](https://dark-vinaal.github.io/AlgoVerse/) | [Repo](https://github.com/Dark-Vinaal/AlgoVerse.git) | `HTML` `CSS` `JavaScript` |
+| DevHub                | [View](https://devhub-tz.vercel.app/) | [Repo](https://github.com/Dark-Vinaal/DevHub.git) | `React` `Vite` `Node` `TypeScript` `JavaScript` `HTML` `CSS` | 
+| Coffee Shop           | [View](https://brew-coffee-house.vercel.app/) | [Repo](https://github.com/Dark-Vinaal/Coffee-Shop.git) | `React` `Vite` `Node` `JavaScript` `HTML` `CSS` |
+| Techy Zone            | [View](https://techyzone.netlify.app/)     | [Pvt] | `HTML` `CSS` `GIT` `GitHub` `Netlify` `VS Code` |
 | Calculator JavaScript | [View](https://dark-vinaal.github.io/Calculator-JS/)     | [Repo](https://github.com/Dark-Vinaal/Calculator-JS.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | Calculator Java       | [Not Hosted]     | [Repo](https://github.com/Dark-Vinaal/Calculator-Java.git) | `Java` `Java Swing Library` `JFrame` `GIT` `GitHub` `VS Code` |
 | Calculator Python     | [Not Hosted]     | [Repo](https://github.com/Dark-Vinaal/Calculator-PY.git) | `Python` `Tkinter` `CustomTkinter` `GIT` `GitHub` `VS Code` |
@@ -49,10 +58,9 @@
 
 | ⚡ Projects           | 🧩 Type           | 🌍 Deployed Link                   | 📦 Repository                       | 🛠️ Tech Stack     |
 |-----------------------|--------------------|-------------------------------------|-------------------------------------|--------------------|
-| Dark AI               | Chatbot            | [] | [Repo() | `React.js` `Node.js` `TypeScript` `Tailwind` `LLM` `APIs` |
-| Nova AI               | ChatBot            | [Featured Soon] | [Repo] | `Python` `React.js` `TypeScript` `Tailwind` `LLM` `APIs` |
-| JARVIS                | Voice Assistant    | [Featured Soon] | [Repo] | `Python` `Eleven Labs` |
-| LocalChatBot          | RAG                | [Localhost - Usage] | [Repo](https://github.com/Dark-Vinaal/RAG) | `Python` `Langchain` `Streamlit` `Huggingface` `Artificial Intelligence` `Machine Learning` `retrieval-augmented-generation` `FAISS` `Ollama` `LLM` `sentence-transformers` `semantic-search` `vector-database` |
+| Dark AI               | Chatbot            | [View](https://dark-gen-ai.vercel.app/) | [Repo](https://github.com/Dark-Vinaal/DARK_GEN-AI.git) | `React.js` `Node.js` `TypeScript` `Tailwind` `LLM` `APIs` |
+| JARVIS AI             | Voice Assistant    | [Featured Soon] | [Repo] | `Python` `Eleven Labs` |
+| Nova AI               | RAG                | [Localhost - Usage] | [Repo](https://github.com/Dark-Vinaal/RAG) | `Python` `Langchain` `Streamlit` `Huggingface` `Artificial Intelligence` `Machine Learning` `retrieval-augmented-generation` `FAISS` `Ollama` `LLM` `sentence-transformers` `semantic-search` `vector-database` |
 
 ### ⚙️ Tool-Based Projects
 
@@ -61,7 +69,7 @@
 | ⚡ Projects           | 🧩 Type           | 🌍 Deployed Link                   | 🛠️ Tech Stack     |
 |-----------------------|--------------------|------------------------------------|--------------------|
 | VR AI                 | ChatBot            | [Chat](https://cdn.botpress.cloud/webchat/v3.5/shareable.html?configUrl=https://files.bpcontent.cloud/2025/12/14/14/20251214144035-T116179K.json) | ![Botpress](https://img.shields.io/badge/BOTPRESS-1A1F4A?style=for-the-badge&logo=botpress&logoColor=white) |
-| DARK AI               | ChatBot            | [Featured Soon] | ![Botpress](https://img.shields.io/badge/BOTPRESS-1A1F4A?style=for-the-badge&logo=botpress&logoColor=white) |
+| Ray AI                | ChatBot            | [Featured Soon] | ![Botpress](https://img.shields.io/badge/BOTPRESS-1A1F4A?style=for-the-badge&logo=botpress&logoColor=white) |
 
 ### Agent Generated Projects
 
@@ -80,7 +88,7 @@
 
 | ⚡ Projects           | 🌍 Deployed Link                   | 📦 Repository                      | 🛠️ Tech Stack      |
 |-----------------------|-------------------------------------|-------------------------------------|--------------------|
-| GamesHub              | []() | [Repo]() | `React.js` `Node.js` `TypeScript` `Tailwind` `LLM` `APIs` |
+| GamesHub              | [View]() | [Repo]() | `React.js` `Node.js` `TypeScript` `Tailwind` `LLM` `APIs` |
 | Rock-Paper-Scissor    | [Deployed Soon] | [Repo](https://github.com/Dark-Vinaal/Rock-Paper-Scissor) | `Python` `Random Module` `Git` `GitHub`  |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -101,7 +109,15 @@
 - These are small projects I built to strengthen my skills and practice applying what I learn. Each one helped me refine my techniques and deepen my understanding through hands-on work.
 - Small but impactful — each one sharpened my fundamentals and boosted my hands-on experience.
 
-| 🔧 Projects           | 🌍 Deployed Link                   | 📦 Repository                      | 🛠️ Tech Stack      |
+### Python
+
+| 🔧 Projects           | 🌍 Deployed Link                    | 📦 Repository                       | 🛠️ Tech Stack      |
+|-----------------------|-------------------------------------|-------------------------------------|--------------------|
+|                       |                                     |                                     |                    |
+
+### JavaScript
+
+| 🔧 Projects           | 🌍 Deployed Link                    | 📦 Repository                       | 🛠️ Tech Stack     |
 |-----------------------|-------------------------------------|-------------------------------------|--------------------|
 | Average Calculator    | [Link](https://dark-vinaal.github.io/Average-Calculator/)     | [Repo](https://github.com/Dark-Vinaal/Average-Calculator.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | BMI Calculator        | [Link](https://dark-vinaal.github.io/BMI-Calculator/)     | [Repo](https://github.com/Dark-Vinaal/BMI-Calculator.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
@@ -125,10 +141,10 @@
 - These highlight my imaginative side — exploring new visuals, UI styles, and design expression.
 - These projects focus on creative expression and experimental design.
 - They highlight my ability to explore ideas freely, try new visual styles, and bring a unique creative perspective into my work.
-
-| 🎨 Projects           | 🌍 Deployed Link                   | 📦 Repository                      | 🛠️ Tech Stack      | 🧰 Tools          |
+ 
+| 🎨 Projects           | 🌍 Deployed Link                    | 📦 Repository                       | 🛠️ Tech Stack      | 🧰 Tools           |
 |-----------------------|-------------------------------------|-------------------------------------|--------------------|--------------------|
-| Portfolio             | [View](https://vinaalr.netlify.app/) | [Repo](https://github.com/Dark-Vinaal/vinaal_portfolio) |  `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `Netlify` | ![Antigravity](https://img.shields.io/badge/Antigravity-1A1F4A?style=for-the-badge&logo=google--assistant&logoColor=white) |
+|                       |                                     |                                     |                    |                    |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
