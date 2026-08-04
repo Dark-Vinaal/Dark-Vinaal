@@ -70,7 +70,7 @@
 | ⚡ Projects           | 🧩 Type           | 🌍 Deployed Link                   | 🛠️ Tech Stack     |
 |-----------------------|--------------------|------------------------------------|--------------------|
 | VR AI                 | ChatBot            | [Chat](https://cdn.botpress.cloud/webchat/v3.5/shareable.html?configUrl=https://files.bpcontent.cloud/2025/12/14/14/20251214144035-T116179K.json) | ![Botpress](https://img.shields.io/badge/BOTPRESS-1A1F4A?style=for-the-badge&logo=botpress&logoColor=white) |
-| Ray AI                | ChatBot            | [Featured Soon] | ![Botpress](https://img.shields.io/badge/BOTPRESS-1A1F4A?style=for-the-badge&logo=botpress&logoColor=white) |
+| CodaAI [Botpress Version] | ChatBot            | [Featured Soon] | ![Botpress](https://img.shields.io/badge/BOTPRESS-1A1F4A?style=for-the-badge&logo=botpress&logoColor=white) |
 
 ### Agent Generated Projects
 
@@ -124,6 +124,17 @@
 | BMI Calculator        | [Link](https://dark-vinaal.github.io/BMI-Calculator/)     | [Repo](https://github.com/Dark-Vinaal/BMI-Calculator.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | Factorial Calculator  | [Link](https://dark-vinaal.github.io/Factorial-JS/)    | [Repo](https://github.com/Dark-Vinaal/Factorial-JS.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | Palindrome Checker    | [Link](https://dark-vinaal.github.io/Palindrome-JS/)    | [Repo](https://github.com/Dark-Vinaal/Palindrome-JS.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 📚 Notes and Practice Codes / Queries / Commands 
+
+| Topics   | Repository                                                                         |
+|----------|------------------------------------------------------------------------------------|
+| Notes    | [Repo](https://github.com/Dark-Vinaal/Learning-Journey/tree/main/Notes)            |
+| Coding   | [Repo](https://github.com/Dark-Vinaal/Learning-Journey/tree/main/Codings)          |
+| Queries  | [Repo](https://github.com/Dark-Vinaal/Learning-Journey/tree/main/Queries)          |
+| Commands | [Repo](https://github.com/Dark-Vinaal/Learning-Journey/tree/main/Commands)         |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
