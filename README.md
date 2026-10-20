@@ -439,6 +439,8 @@ graph LR
   </tr>
 </table>
 
+<img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+
 </div>
 
 ![](https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/Assets/Bottom_down.svg)
