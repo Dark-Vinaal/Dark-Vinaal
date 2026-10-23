@@ -110,13 +110,16 @@
 - These are small projects I built to strengthen my skills and practice applying what I learn. Each one helped me refine my techniques and deepen my understanding through hands-on work.
 - Small but impactful — each one sharpened my fundamentals and boosted my hands-on experience.
 
-### Python
+### Mini Projects & Games ( Undeployed )
 
-| 🔧 Projects           | 🌍 Deployed Link                    | 📦 Repository                       | 🛠️ Tech Stack      |
-|-----------------------|-------------------------------------|-------------------------------------|--------------------|
-|                       |                                     |                                     |                    |
+| 🔧 Projects           | 📦 Repository                       | 🛠️ Tech Stack      |
+|-----------------------|-------------------------------------|--------------------|
+| Python Mini-Projects  | [Repo](https://github.com/Dark-Vinaal/Python_Mini_Projects) | `Python` |
+| JavaScript Mini-Projects | [Repo](https://github.com/Dark-Vinaal/JS_Mini-Projects) | `JavaScript` `TypeScript` `React.js` `Express.js` |
+| GoLang Mini-Projects  | [Repo](https://github.com/Dark-Vinaal/Go-Mini_Projects) | `Go` |
+| Mini Games            | [Repo](https://github.com/Dark-Vinaal/Mini-Games) | `Python` `Java` `JavaScript` `Go` `C` `C++` `Dart` |
 
-### JavaScript
+### JavaScript Mini Projects ( Deployed )
 
 | 🔧 Projects           | 🌍 Deployed Link                    | 📦 Repository                       | 🛠️ Tech Stack     |
 |-----------------------|-------------------------------------|-------------------------------------|--------------------|
