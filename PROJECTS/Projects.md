@@ -43,9 +43,6 @@
 | DevHub                | [View](https://devhub-tz.vercel.app/) | [Repo](https://github.com/Dark-Vinaal/DevHub.git) | `React` `Vite` `Node` `TypeScript` `JavaScript` `HTML` `CSS` | 
 | Coffee Shop           | [View](https://brew-coffee-house.vercel.app/) | [Repo](https://github.com/Dark-Vinaal/Coffee-Shop.git) | `React` `Vite` `Node` `JavaScript` `HTML` `CSS` |
 | Techy Zone            | [View](https://techyzone.netlify.app/)     | [Pvt] | `HTML` `CSS` `GIT` `GitHub` `Netlify` `VS Code` |
-| Calculator JavaScript | [View](https://dark-vinaal.github.io/Calculator-JS/)     | [Repo](https://github.com/Dark-Vinaal/Calculator-JS.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
-| Calculator Java       | [Not Hosted]     | [Repo](https://github.com/Dark-Vinaal/Calculator-Java.git) | `Java` `Java Swing Library` `JFrame` `GIT` `GitHub` `VS Code` |
-| Calculator Python     | [Not Hosted]     | [Repo](https://github.com/Dark-Vinaal/Calculator-PY.git) | `Python` `Tkinter` `CustomTkinter` `GIT` `GitHub` `VS Code` |
 | Data Profile          | [Not Hosted]     | [Repo](https://github.com/Dark-Vinaal/Data-Profile.git) | `Express.js` `JavaScript` `HTML` `CSS` | 
 | BioData Form          | [View](https://dark-vinaal.github.io/biodata-form/)       | [Repo](https://github.com/Dark-Vinaal/biodata-form.git)   | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code`|
 
@@ -118,11 +115,14 @@
 | JavaScript Mini-Projects | [Repo](https://github.com/Dark-Vinaal/JS_Mini-Projects) | `JavaScript` `TypeScript` `React.js` `Express.js` |
 | GoLang Mini-Projects  | [Repo](https://github.com/Dark-Vinaal/Go-Mini_Projects) | `Go` |
 | Mini Games            | [Repo](https://github.com/Dark-Vinaal/Mini-Games) | `Python` `Java` `JavaScript` `Go` `C` `C++` `Dart` |
+| Calculator Java       | [Repo](https://github.com/Dark-Vinaal/Calculator-Java.git) | `Java` `Java Swing Library` `JFrame` `GIT` `GitHub` `VS Code` |
+| Calculator Python     | [Repo](https://github.com/Dark-Vinaal/Calculator-PY.git) | `Python` `Tkinter` `CustomTkinter` `GIT` `GitHub` `VS Code` |
 
-### JavaScript Mini Projects ( Deployed )
+### Mini Projects ( Deployed )
 
 | 🔧 Projects           | 🌍 Deployed Link                    | 📦 Repository                       | 🛠️ Tech Stack     |
 |-----------------------|-------------------------------------|-------------------------------------|--------------------|
+| Calculator JavaScript | [View](https://dark-vinaal.github.io/Calculator-JS/)     | [Repo](https://github.com/Dark-Vinaal/Calculator-JS.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | Average Calculator    | [Link](https://dark-vinaal.github.io/Average-Calculator/)     | [Repo](https://github.com/Dark-Vinaal/Average-Calculator.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | BMI Calculator        | [Link](https://dark-vinaal.github.io/BMI-Calculator/)     | [Repo](https://github.com/Dark-Vinaal/BMI-Calculator.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
 | Factorial Calculator  | [Link](https://dark-vinaal.github.io/Factorial-JS/)    | [Repo](https://github.com/Dark-Vinaal/Factorial-JS.git) | `HTML` `CSS` `JavaScript` `GIT` `GitHub` `GitHub Pages` `VS Code` |
