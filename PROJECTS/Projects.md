@@ -18,7 +18,7 @@
 
 | 🌍          Link                    | 📦 Repository                       | 🛠️ Tech Stack      |
 |-------------------------------------|-------------------------------------|--------------------|
-| [View](https://vinaalr.netlify.app/) | [Repo](https://github.com/Dark-Vinaal/vinaal_portfolio) |  `React` `Vite` `Node` `TypeScript` `JavaScript` `Tailwind` `HTML` `CSS` `GIT` `GitHub` `Netlify` |
+| [Catch a Glimpse](https://vinaalr.netlify.app/) | [Scope the Source](https://github.com/Dark-Vinaal/vinaal_portfolio) |  `React.js` `Vite.js` `Node.js` `TypeScript` `JavaScript` `Tailwind` `Email.js` `HTML` `CSS` `GIT` `GitHub` `Netlify` |
 
 ## 🔥 FEATURED PROJECTS
 
