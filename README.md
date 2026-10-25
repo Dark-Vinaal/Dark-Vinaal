@@ -163,8 +163,8 @@ graph TD
 | **RAM** | 16 GB DDR4 | 8 GB |
 | **Storage** | 512 GB NVMe SSD | 256 GB |
 | **Display** | 15.6" FHD (1920x1080) 144Hz | 14" (1366x768) BOE Panel |
-| **Desktop Env** | Windows Shell | GNOME 49.4 `Wayland` / Hyprland `Uswm` + `Caelestia Shell` |
-| **Terminal** | PowerShell / CMD | Ghostty 1.2.3 (JetBrainsMono NF) |
+| **Desktop Env** | Windows Shell | GNOME `Wayland` / Hyprland `Uswm` + `Caelestia Shell` |
+| **Terminal** | PwSh / CMD | Ghostty |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
