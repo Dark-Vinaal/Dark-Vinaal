@@ -105,7 +105,7 @@ graph TD
 <a href="https://www.linkedin.com/in/vinaal/">
   <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" />
 </a>
-<a href="https://linktr.ee/Darkxzz999">
+<a href="https://darkxzz.netlify.app/">
   <img src="https://img.shields.io/badge/Linktree-d5d5d5?style=for-the-badge&logo=linktree&logoColor=0A0209" alt="Linktree" />
 </a>
 <a href="https://medium.com/@@darkxzz999">
@@ -428,7 +428,7 @@ graph LR
       </a>
     </td>
     <td>
-      <a href="INSERT_YOUR_LINKTREE_URL_HERE" target="_blank" style="text-decoration: none;">
+      <a href="https://darkxzz.netlify.app/" target="_blank" style="text-decoration: none;">
         <span style="font-size: 25px;">🔗</span>
       </a>
     </td>
